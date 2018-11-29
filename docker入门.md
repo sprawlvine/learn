@@ -1,3 +1,4 @@
+
 [TOC]
 1
 2
@@ -150,7 +151,7 @@ overlay2驱动程序本身最多支持128个较低的OverlayFS层:
 docker inspect centos|jq '.[].RootFS
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDU3OTkyNjg0LC0zNDk2NzQ0MywxNzY0ND
-YzOTI0LDE3NjQ0NjM5MjQsLTQ4NDEzNzY5MywtODAxMjY3NTY3
-XX0=
+eyJoaXN0b3J5IjpbLTE2NzAxMzU5MTAsLTM0OTY3NDQzLDE3Nj
+Q0NjM5MjQsMTc2NDQ2MzkyNCwtNDg0MTM3NjkzLC04MDEyNjc1
+NjddfQ==
 -->
