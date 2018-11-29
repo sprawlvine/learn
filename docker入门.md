@@ -5,20 +5,20 @@ debian最新版本，可以直接下一个netinst版本，然后在线安装
   
 # 2. 安装virtual box  
 ---  
-##2.1 安装增强功能失败  
+## 2.1 安装增强功能失败  
 Q: 提示：未能加载虚拟光盘 C:\Program Files\Oracle\VirtualBox\VBoxGuestAdditions  
 A: 可以到系统中的cdrom(注意不是cdrom0，0是只读的，无法直接执行)中，手工执行。  
   
-##2.2 设置剪切板不生效  
+## 2.2 设置剪切板不生效  
 A: 需要设置：  
 1.虚拟机设置-存储-控制器SATA-勾选"使用主机输入输出(I/O)缓存"  
 2.存储-控制器SATA-点击***.vdi-勾选"固态驱动器"  
 3.然后重启  
   
-##2.3 共享文件夹无访问权限  
+## 2.3 共享文件夹无访问权限  
 A: 设置：usermod -a -G vboxsf xxx，然后重启  
   
-##2.4 VI箭头输入无效，显示ABCD  
+## 2.4 VI箭头输入无效，显示ABCD  
 A: sudo apt-get install vim  
   
 # 3.安装debian  
@@ -54,7 +54,7 @@ sudo usermod -a -G docker vincent
 [Docker入门与实践](https://github.com/yeasy/docker_practice)  
 <img src="https://raw.githubusercontent.com/yeasy/docker_practice/master/_images/docker_primer3.png" width = "20%" height = "20%" alt="Docker入门与实践"/>  
   
-##6.1 容器写入操作  
+## 6.1 容器写入操作  
 按照 Docker 最佳实践的要求，容器不应该向其存储层内写入任何数据，容器存储  
 层要保持无状态化。所有的文件写入操作，都应该使用 数据卷（Volume）、或者  
 绑定宿主目录，在这些位置的读写会跳过容器存储层，直接对宿主（或网络存储）  
@@ -62,7 +62,7 @@ sudo usermod -a -G docker vincent
 数据卷的生存周期独立于容器，容器消亡，数据卷不会消亡。因此，使用数据卷  
 后，容器删除或者重新运行之后，数据却不会丢失。  
   
-##6.2 Registry  
+## 6.2 Registry  
 最常使用的 Registry 公开服务是官方的 Docker Hub，这也是默认的 Registry，并  
 拥有大量的高质量的官方镜像。除此以外，还有 CoreOS 的 Quay.io，CoreOS 相  
 关的镜像存储在这里；Google 的 Google Container Registry，Kubernetes 的镜像  
@@ -72,10 +72,10 @@ sudo usermod -a -G docker vincent
 提供了 Docker Registry 镜像，可以直接使用做为私有 Registry 服务。  
   
   
-##6.3 配置国内镜像加速  
+## 6.3 配置国内镜像加速  
 鉴于国内网络问题，后续拉取 Docker 镜像十分缓慢，强烈建议安装 Docker 之后配置国内镜像加速  
   
-##6.4 Docker存储驱动之总览  
+## 6.4 Docker存储驱动之总览  
 + **Docker的存储驱动架构**  
 Docker的存储驱动架构是可插拔的，可以让你很方便的将适合你环境和用例的存储驱动“插进”Docker。每个Docker存储驱动都建立在一种Linux文件系统或者卷管理系统之上，也可以很自由地按照其自己的方法去实现镜像层和容器层的管理。也就是说一些存储驱动在不同的场景下会比其他的驱动性能更好。  
 + **查看当前daemon**  
@@ -143,5 +143,5 @@ overlay2驱动程序本身最多支持128个较低的OverlayFS层:
 技巧：使用jq解析（apt install jq）  
 docker inspect centos|jq '.[].RootFS
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzMTg1ODA5N119
+eyJoaXN0b3J5IjpbLTgwMTI2NzU2N119
 -->
