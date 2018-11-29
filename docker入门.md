@@ -1,5 +1,5 @@
 # 1. 下载软件  
----  
+
 virtualbox最新版本  
 debian最新版本，可以直接下一个netinst版本，然后在线安装  
   
@@ -145,7 +145,7 @@ overlay2驱动程序本身最多支持128个较低的OverlayFS层:
 docker inspect centos|jq '.[].RootFS
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzg5MTQ2NDMxLC0xNjcwMTM1OTEwLC0zND
-k2NzQ0MywxNzY0NDYzOTI0LDE3NjQ0NjM5MjQsLTQ4NDEzNzY5
-MywtODAxMjY3NTY3XX0=
+eyJoaXN0b3J5IjpbNTA0OTI5MTI2LDc4OTE0NjQzMSwtMTY3MD
+EzNTkxMCwtMzQ5Njc0NDMsMTc2NDQ2MzkyNCwxNzY0NDYzOTI0
+LC00ODQxMzc2OTMsLTgwMTI2NzU2N119
 -->
