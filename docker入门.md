@@ -1,9 +1,3 @@
-
-[TOC]
-1
-2
-2
-
 # 1. 下载软件  
 ---  
 virtualbox最新版本  
@@ -151,7 +145,7 @@ overlay2驱动程序本身最多支持128个较低的OverlayFS层:
 docker inspect centos|jq '.[].RootFS
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NzAxMzU5MTAsLTM0OTY3NDQzLDE3Nj
-Q0NjM5MjQsMTc2NDQ2MzkyNCwtNDg0MTM3NjkzLC04MDEyNjc1
-NjddfQ==
+eyJoaXN0b3J5IjpbNzg5MTQ2NDMxLC0xNjcwMTM1OTEwLC0zND
+k2NzQ0MywxNzY0NDYzOTI0LDE3NjQ0NjM5MjQsLTQ4NDEzNzY5
+MywtODAxMjY3NTY3XX0=
 -->
