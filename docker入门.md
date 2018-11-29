@@ -1,14 +1,4 @@
-```mermaid
-sequenceDiagram
-Alice ->> Bob: Hello Bob, how are you?
-Bob-->>John: How about you John?
-Bob--x Alice: I am good thanks!
-Bob-x John: I am good thanks!
-Note right of John: Bob thinks a long<br/>long time, so long<br/>that the text does<br/>not fit on a row.
 
-Bob-->Alice: Checking with John...
-Alice->John: Yes... John, how are you?
-```
 # 1. 下载软件  
 ---  
 virtualbox最新版本  
@@ -174,6 +164,6 @@ cond(no)->sub1(left)->op1
 c2(yes)->io->e
 c2(no)->op2->e
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjM3MDYzMDY5LDE3NjQ0NjM5MjQsLTQ4ND
-EzNzY5MywtODAxMjY3NTY3XX0=
+eyJoaXN0b3J5IjpbMTc2NDQ2MzkyNCwxNzY0NDYzOTI0LC00OD
+QxMzc2OTMsLTgwMTI2NzU2N119
 -->
