@@ -143,6 +143,25 @@ overlay2驱动程序本身最多支持128个较低的OverlayFS层:
 ## 6.7 docker inspect  
 技巧：使用jq解析（apt install jq）  
 docker inspect centos|jq '.[].RootFS
+
+<script src="[raphael-min.js](https://raw.githubusercontent.com/DmitryBaranovskiy/raphael/master/raphael.min.js)"><
+<script src="[flowchart-latest.js](http://flowchart.js.org/flowchart-latest.js)"></script>
+
+st=>start: Start:>http://www.google.com[blank]
+e=>end:>http://www.google.com
+op1=>operation: My Operation
+sub1=>subroutine: My Subroutine
+cond=>condition: Yes
+or No?:>http://www.google.com
+io=>inputoutput: catch something...
+para=>parallel: parallel tasks
+
+st->op1->cond
+cond(yes)->io->e
+cond(no)->para
+para(path1, bottom)->sub1(right)->op1
+para(path2, top)->op1
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4NDEzNzY5MywtODAxMjY3NTY3XX0=
+eyJoaXN0b3J5IjpbOTkxMDczMTU0LC00ODQxMzc2OTMsLTgwMT
+I2NzU2N119
 -->
