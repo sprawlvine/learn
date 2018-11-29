@@ -106,11 +106,12 @@ Docker的存储驱动架构是可插拔的，可以让你很方便的将适合�
 <tr>  
 <td>zfs</td> <td>zfs only</td> <td>N/A</td>  
 </tr>  
-</table>  
-+ **设置**  
-+ 启动时设置  
-想要设置存储驱动，可以在dockerd启动的时候加入--storage-driver=  
-$ dockerd --storage-driver=devicemapper &  
+</table>    
+
++  **设置**  
+   +  启动时设置  
+	想要设置存储驱动，可以在dockerd启动的时候加入--storage-driver=  
+	$ dockerd --storage-driver=devicemapper &  
   
 + **Overlay vs Overlay2**  
 OverlayFS是一种类似于AUFS的现代联合文件系统，兼容AUFS，具有以下特点：  
@@ -145,6 +146,6 @@ overlay2驱动程序本身最多支持128个较低的OverlayFS层:
 docker inspect centos|jq '.[].RootFS
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjMzNzMwNzA1LDE3NjQ0NjM5MjQsMTc2ND
+eyJoaXN0b3J5IjpbLTM0OTY3NDQzLDE3NjQ0NjM5MjQsMTc2ND
 Q2MzkyNCwtNDg0MTM3NjkzLC04MDEyNjc1NjddfQ==
 -->
