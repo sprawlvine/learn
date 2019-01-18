@@ -325,11 +325,9 @@ notebook的菜单 <br>
 -   SymPy
 -   pandas
 
-![333](https://github.com/Azure/SONiC/blob/f2ebba476b4ef364b13b7980c2fe01e8929c71e6/images/vrf_hld/VRF_HIGH_LEVEL_DIAGRAM.png)
-  
  
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MjY3MDkxNDQsNDU3NTE2MjAwXX0=
+eyJoaXN0b3J5IjpbMTczMzQxNDgwNl19
 -->
