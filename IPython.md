@@ -10,17 +10,14 @@ python get-pip.py
 sudo apt install python-pip  
   
 + **Python 3:**  
-sudo apt install python3-venv python3-pip  
+sudo apt install python3-pip  
   
-## 1.2 IPython  
-1. **PiP安装**  
+## 1.2 IPython 安装 
 pip3 install --upgrade pip  
 pip3 install jupyter  
   
-2. **Pandas**  
-pip3 install pandas  
   
-3. **IPython使用**  
+# 2. **IPython使用**  
 + **reset调试交互执行环境**  
 reset  
   
@@ -51,17 +48,8 @@ alias ipc ipconfig /all
 + %prun d:\1.py or  
 + %run [-d] d:\1.py  
   
-# 2. Pands  
-1.dataframe增加一行  
-  
-ds = pd.date_range("20180101", periods=7)  
-df = pd.DataFrame(np.random.randn(7,4),index=ds,columns=list('abcd'))  
-  
-s2 = pd.Series([5,5,5,5])  
-s2.index = df.columns  
-df.append(s2)  
-df.append(s2, ignore_index=True)  
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTk2NjU0OV19
+eyJoaXN0b3J5IjpbNTk1OTM2OTQzXX0=
 -->
