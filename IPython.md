@@ -137,11 +137,11 @@ downgraded the prompt-toolkit to the version 1.0.15 and jupyter worked again.
    
   - **%timeit** <br>
  进行profile测量<br>
-   ```
-   In [149]: %timeit a=1
-   19.1 ns ± 0.844 ns per loop (mean ± std. dev. of 7 runs, 10000000 loops
-   each)
-   ```
+    ```
+       In [149]: %timeit a=1
+       19.1 ns ± 0.844 ns per loop (mean ± std. dev. of 7 runs, 10000000 loops
+       each)
+    ```
    
 - **%prun**<br>
 测试程序中每个函数消耗的时间<br>
@@ -152,9 +152,9 @@ downgraded the prompt-toolkit to the version 1.0.15 and jupyter worked again.
     ```
 
 - **快速debug调试**<br>
--- **自动进入pdb**<br>
+  - **自动进入pdb**<br>
 当%pdb自动模式打开时，一旦运行程序出错，自动进入pdb模式   <br> 
-```
+    ```
     In [249]: %pdb
     Automatic pdb calling has been turned ON 
 
@@ -169,10 +169,10 @@ downgraded the prompt-toolkit to the version 1.0.15 and jupyter worked again.
     ----> 1 a=d
     
     ipdb>
-```
+    ```
 
-   -- **手动快读进入debug**<br>
-```
+  - **手动快读进入debug**<br>
+    ```
     In [251]: %pdb
     Automatic pdb calling has been turned OFF
     
@@ -189,7 +189,7 @@ downgraded the prompt-toolkit to the version 1.0.15 and jupyter worked again.
     ----> 1 a=d
     
     ipdb>
-```
+    ```
 
 ## 3.6 **历史记录及外部文件操作**    
  - **%hist**<br>
@@ -331,5 +331,5 @@ notebook的菜单 <br>
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjE5OTU0NTcwXX0=
+eyJoaXN0b3J5IjpbLTE5NjAzODQwNzRdfQ==
 -->
