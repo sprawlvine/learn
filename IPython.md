@@ -153,7 +153,7 @@ downgraded the prompt-toolkit to the version 1.0.15 and jupyter worked again.
 
 - **快速debug调试**
 -- **自动进入pdb**
-当%pdb自动模式打开时，一旦运行程序出错，自动进入pdb模式
+当%pdb自动模式打开时，一旦运行程序出错，自动进入pdb模式    
 ```
     In [249]: %pdb
     Automatic pdb calling has been turned ON 
@@ -329,5 +329,5 @@ notebook的菜单 <br>
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczMzQxNDgwNl19
+eyJoaXN0b3J5IjpbLTEwNzkzMzY5MzhdfQ==
 -->
