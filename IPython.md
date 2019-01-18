@@ -58,12 +58,36 @@ downgraded the prompt-toolkit to the version 1.0.15 and jupyter worked again.
     In [194]: %reset
     Once deleted, variables cannot be recovered. Proceed (y/[n])?
     ```
-	
+- **%cls清屏**  
+
 ## 3.1 **查询信息** 
  - **简单查询？**
  `object?`   -> Details about 'object'.
+
  - **详细查询？？**
 `object??`  -> More detailed, verbose information about 'object'.
+
+ - **who，whos查看变量**
+    ```
+    In [219]: who
+    IPython  a       b       c       i       ip      s       s1      s2
+    s3       string  v
+
+    In [220]: whos
+    Variable   Type      Data/Info
+    ------------------------------
+    IPython    module    <module 'IPython' from 'd<...>s\\IPython\\__init__.py'>
+    a          range     range(0, 12)
+    b          str       hello
+    c          str       hello
+    i          int       11 
+    ip         module    <module 'IPython' from 'd<...>s\\IPython\\__init__.py'>
+    s          int       456
+    s1         str       1
+    s2         str       2
+    s3         str       3
+    string     module    <module 'string' from 'd:<...>ython36\\lib\\string.py'>
+   ```
  
 ## 3.2 **TAB提示自动补全**
  输入部分字符，按`TAB键`，自动提示
@@ -81,11 +105,11 @@ downgraded the prompt-toolkit to the version 1.0.15 and jupyter worked again.
     In [17]: !pwd
     /d/work/learn
 
+
     ```
 ## 3.4 **运行程序文件、测量、调试**   
  - **%run test.py**
-在当前环境下直接执行 `test.py`，效果跟命令行下调用 `python test.py` 相同, 相当于
-    > %load + enter。
+在当前环境下直接执行 `test.py`，效果跟命令行下调用 `python test.py` 相同, 相当于` %load + enter`, 如果启动debug调试，加`-d`，即`%run -d test.py`
 
  - **%time**
 `%time fun()` 跟 `timeit decorator` 作用类似，进行简单的 `一次`运行profile。
@@ -160,5 +184,5 @@ load文件并执行
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTU3MDg3MzJdfQ==
+eyJoaXN0b3J5IjpbMTk4NjY2NjM5Nl19
 -->
