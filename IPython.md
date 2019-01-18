@@ -145,7 +145,7 @@ load文件并执行
  ## 3.6 **其它操作**    
 
  - **定义任何系统shell cmd别名**  
-alias ipc ipconfig /all  
+`In [173]: alias ipc ipconfig /all ` 
 
  - **%automagic**
 `%automagic` 是打开的状态的话，所有 magic function 不需要在前面加 `%` 就能正确调用。
@@ -160,5 +160,5 @@ alias ipc ipconfig /all
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTMzMDExOTg0XX0=
+eyJoaXN0b3J5IjpbLTEyOTU3MDg3MzJdfQ==
 -->
