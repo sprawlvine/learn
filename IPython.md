@@ -2,22 +2,81 @@
 ## 1.1 pip安装  
 
 1. **windows:**  
-curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py  
-python get-pip.py  
-  
-2. **debian下：**  
+    ```
+    curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py  
+    python get-pip.py  
+    ```  
+3. **debian下：**  
 + **Python 2:**  
-sudo apt install python-pip  
-  
+    ```
+    sudo apt install python-pip  
+    ```  
 + **Python 3:**  
-sudo apt install python3-pip  
+    ```
+    sudo apt install python3-pip  
+    ```
   
 ## 1.2 IPython 安装 
-pip3 install --upgrade pip  
-pip3 install jupyter  
-  
-  
-# 2. **IPython使用**  
+    ```
+    sudo pip3 install --upgrade pip  
+    sudo pip3 install jupyter   
+    ```
+# 2. **运行IPython**  
++ **启动**
+	>ipython
++ **退出**
+	 >exit
+	  
+# 3. **IPython使用**  
++ **_的使用**
+在 Python shell 下 _ 总是被赋予之前最后一个表达式的值
+    ```  
+    In [11]: s = "hello"
+
+    In [12]: s
+    Out[12]: 'hello'
+
+    In [13]: a = _
+
+    In [14]: a
+    Out[14]: 'hello'
+    ```
++ ****
+    ```
+    
+    ```
++ ****
+    ```
+    
+    ```
++ ****
+    ```
+    
+    ```
++ ****
+    ```
+    
+    ```
++ ****
+    ```
+    
+    ```
++ ****
+    ```
+    
+    ```
++ ****
+    ```
+    
+    ```
++ ****
+    ```
+    
+    ```
++ ****
+    ```
+    
+    ```                        
 + **reset调试交互执行环境**  
 reset  
   
@@ -51,5 +110,5 @@ alias ipc ipconfig /all
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTk1OTM2OTQzXX0=
+eyJoaXN0b3J5IjpbMTE0OTQyMjAwM119
 -->
