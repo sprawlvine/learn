@@ -44,39 +44,39 @@ downgraded the prompt-toolkit to the version 1.0.15 and jupyter worked again.
  
 # 3. **IPython使用**  
 ## 3.1. **运行/退出**  
- - **cmd 命令行运行**
- 这是一个字符界面
+ - **cmd 命令行运行**<br>
+ 这是一个字符界面<br>
 	```
 	D:\>ipython
 	或
 	D:\>ipython3
 	```
- - **qtconsole运行**
-     这是一个图形界面
+ - **qtconsole运行**<br>
+     这是一个图形界面<br>
 	 ```
 	 D:\>jupyter qtconsole
      ```
      
- - **退出**
+ - **退出**<br>
 	`In [15]: exit`
 
-  - **reset调试交互执行环境**  
+  - **reset调试交互执行环境** <br> 
     ```	  
     In [194]: %reset
     Once deleted, variables cannot be recovered. Proceed (y/[n])?
     ```
-- **%cls清屏**  
+- **%cls清屏**  <br>
 
-## 3.1 **查询信息** 
- - **简单查询？**
- 显示用法
+## 3.2 **查询信息** 
+ - **简单查询？**<br>
+ 显示用法<br>
  `object?`   -> Details about 'object'.
 
- - **详细查询？？**
- 显示详细的代码
+ - **详细查询？？**<br>
+ 显示详细的代码<br>
 `object??`  -> More detailed, verbose information about 'object'.
 
- - **who，whos查看变量**
+ - **who，whos查看变量**<br>
     ```
     In [219]: who
     IPython  a       b       c       i       ip      s       s1      s2
@@ -98,12 +98,12 @@ downgraded the prompt-toolkit to the version 1.0.15 and jupyter worked again.
     string     module    <module 'string' from 'd:<...>ython36\\lib\\string.py'>
    ```
  
-## 3.2 **TAB提示自动补全**
+## 3.3 **TAB提示自动补全**
  输入部分字符，按`TAB键`，自动提示
  
-## 3.3 **调用shell 命令**
- - **!cmd**
- 在命令前面加上 `!` 则它会被作为命令行命令执行，这样你就不用`退出` IPython 来进行命令行操作
+## 3.4 **调用shell 命令**
+ - **!cmd**<br>
+ 在命令前面加上 `!` 则它会被作为命令行命令执行，这样你就不用`退出` IPython 来进行命令行操作<br>
     ```
     In [15]: !cd
     D:\work\learn
@@ -116,44 +116,44 @@ downgraded the prompt-toolkit to the version 1.0.15 and jupyter worked again.
 
 
     ```
-## 3.4 **运行程序文件、测量、调试**   
- - **%run test.py**
-**手工调用调试**
+## 3.5 **运行程序文件、测量、调试**   
+ - **%run test.py**<br>
+**手工调用调试**<br>
 在当前环境下直接执行 `test.py`，效果跟命令行下调用 `python test.py` 相同, 相当于` %load + enter`, 如果启动debug调试，加`-d`，即`%run -d test.py`，然后就可以进入pdb进行详细的调试了
 
- - **程序中插入IPython断点调试**
-   如果程序是由命令行开始执行的，即在命令行下输入 `python test.py`（大部分 Python 程序都是），那么你还可以利用 IPython 在你的程序任意地方进行断点调试！
+ - **程序中插入IPython断点调试**<br>
+   如果程序是由命令行开始执行的，即在命令行下输入 `python test.py`（大部分 Python 程序都是），那么你还可以利用 IPython 在你的程序任意地方进行断点调试！<br>
     ```   
     import IPython as ipy
     
     ipy.embed()
    ```
- - **%time**
-`%time fun()` 跟 `timeit decorator` 作用类似，进行简单的 `一次`运行profile。
+ - **%time**<br>
+`%time fun()` 跟 `timeit decorator` 作用类似，进行简单的 `一次`运行profile。<br>
       ```
     In [150]: %time a=1
     Wall time: 0 ns   
    ```   
    
-  - **%timeit** 
- 进行profile测量
+  - **%timeit** <br>
+ 进行profile测量<br>
    ```
    In [149]: %timeit a=1
    19.1 ns ± 0.844 ns per loop (mean ± std. dev. of 7 runs, 10000000 loops
    each)
    ```
    
-- **%prun**
-测试程序中每个函数消耗的时间
+- **%prun**<br>
+测试程序中每个函数消耗的时间<br>
     ```
        In [232]: %prun np.random.randn(3)
              4 function calls in 0.000 seconds
              ...
     ```
 
-- **快速debug调试**
--- **自动进入pdb**
-当%pdb自动模式打开时，一旦运行程序出错，自动进入pdb模式    
+- **快速debug调试**<br>
+-- **自动进入pdb**<br>
+当%pdb自动模式打开时，一旦运行程序出错，自动进入pdb模式   <br> 
 ```
     In [249]: %pdb
     Automatic pdb calling has been turned ON 
@@ -170,7 +170,7 @@ downgraded the prompt-toolkit to the version 1.0.15 and jupyter worked again.
     
     ipdb>
 ```
--- **手动快读进入debug**
+-- **手动快读进入debug**<br>
 ```
     In [251]: %pdb
     Automatic pdb calling has been turned OFF
@@ -190,12 +190,12 @@ downgraded the prompt-toolkit to the version 1.0.15 and jupyter worked again.
     ipdb>
 ```
 
-## 3.5 **历史记录及外部文件操作**    
- - **%hist**
+## 3.6 **历史记录及外部文件操作**    
+ - **%hist**<br>
  `%hist` 能显示之前输入过的命令的历史，`-n`显示行号。
  
- - **%save**
-保存指定行的历史记录到文件，如保存130-131行到test.py
+ - **%save**<br>
+保存指定行的历史记录到文件，如保存130-131行到test.py<br>
      ```
     In [139]: %save test.py 130-131
     The following commands were written to file `test.py`:
@@ -203,23 +203,23 @@ downgraded the prompt-toolkit to the version 1.0.15 and jupyter worked again.
     for i in a: print(i)
    ```
 
- - **%pycat**
- 查看python代码文件
+ - **%pycat**<br>
+ 查看python代码文件<br>
     ``` 
     In [228]: %pycat test.py
     # coding: utf-8
     a = range(12)
     for i in a: print(i)
    ``` 
- - **%edit** 
-     打开编辑器，关闭编辑器，代码会自动执行：）
+ - **%edit** <br>
+     打开编辑器，关闭编辑器，代码会自动执行：）<br>
      ```
      In [147]: %edit test.py
      Editing... done. Executing edited code...
    ```
   
-- **%writefile**
-编辑并写入外部文件
+- **%writefile**<br>
+编辑并写入外部文件<br>
 In [238]: %%writefile test2.py
      ...: a = 1
      ...: b = 1
@@ -228,13 +228,13 @@ In [238]: %%writefile test2.py
      ...:
      ...: 
        
- - **%load**
-load文件并执行
+ - **%load**<br>
+load文件并执行<br>
 `In [140]: %load test.py`
     
      
- - **重新执行history命令**  
-%recall n-m  
+ - **重新执行history命令**  <br>
+%recall n-m  <br>
     ```
      In [172]: %recall 150
 
@@ -242,19 +242,19 @@ load文件并执行
      Wall time: 0 ns
    ```  
 
- ## 3.6 **其它操作**    
+ ## 3.7 **其它操作**    
 
- - **lsmagic命令**
+ - **lsmagic命令**<br>
 显示所有的magic命令
 
-- **%env**
-可以查看以及设置环境变量
+- **%env**<br>
+可以查看以及设置环境变量<br>
 In [173]: %env
 
- - **定义任何系统shell cmd别名**  
+ - **定义任何系统shell cmd别名**<br>  
 `In [173]: alias ipc ipconfig /all ` 
 
- - **%automagic**
+ - **%automagic**<br>
 `%automagic` 是打开的状态的话，所有 magic function 不需要在前面加 `%` 就能正确调用。
            
 # 4. **jupyter使用**  
@@ -329,5 +329,5 @@ notebook的菜单 <br>
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzkzMzY5MzhdfQ==
+eyJoaXN0b3J5IjpbLTE2MTU2MTczODhdfQ==
 -->
