@@ -118,16 +118,24 @@ downgraded the prompt-toolkit to the version 1.0.15 and jupyter worked again.
     ```
 ## 3.4 **运行程序文件、测量、调试**   
  - **%run test.py**
+**手工调用调试**
 在当前环境下直接执行 `test.py`，效果跟命令行下调用 `python test.py` 相同, 相当于` %load + enter`, 如果启动debug调试，加`-d`，即`%run -d test.py`，然后就可以进入pdb进行详细的调试了
 
+ - **程序中插入IPython断点调试**
+   如果程序是由命令行开始执行的，即在命令行下输入 `python test.py`（大部分 Python 程序都是），那么你还可以利用 IPython 在你的程序任意地方进行断点调试！
+    ```   
+    import IPython as ipy
+    
+    ipy.embed()
+   ```
  - **%time**
 `%time fun()` 跟 `timeit decorator` 作用类似，进行简单的 `一次`运行profile。
       ```
     In [150]: %time a=1
     Wall time: 0 ns   
-   ```
+   ```   
    
- - **%timeit** 
+  - **%timeit** 
  进行profile测量
    ```
    In [149]: %timeit a=1
@@ -135,14 +143,54 @@ downgraded the prompt-toolkit to the version 1.0.15 and jupyter worked again.
    each)
    ```
    
- - **程序中插入IPython断点调试**
-   如果程序是由命令行开始执行的，即在命令行下输入 `python test.py`（大部分 Python 程序都是），那么你还可以利用 IPython 在你的程序任意地方进行断点调试！
-```   
-    import IPython as ipy
-    
-    ipy.embed()
+- **%prun**
+测试程序中每个函数消耗的时间
+    ```
+       In [232]: %prun np.random.randn(3)
+             4 function calls in 0.000 seconds
+             ...
+    ```
+
+- **快速debug调试**
+-- **自动进入pdb**
+当%pdb自动模式打开时，一旦运行程序出错，自动进入pdb模式
 ```
-## 3.5 **历史记录操作**    
+    In [249]: %pdb
+    Automatic pdb calling has been turned ON 
+
+      In [250]: a=d
+    ---------------------------------------------------------------------------
+    NameError                                 Traceback (most recent call last)
+    <ipython-input-250-f3f3225a8e96> in <module>
+    ----> 1 a=d
+    
+    NameError: name 'd' is not defined
+    > <ipython-input-250-f3f3225a8e96>(1)<module>()
+    ----> 1 a=d
+    
+    ipdb>
+```
+-- **手动快读进入debug**
+```
+    In [251]: %pdb
+    Automatic pdb calling has been turned OFF
+    
+    In [252]: a=d
+    ---------------------------------------------------------------------------
+    NameError                                 Traceback (most recent call last)
+    <ipython-input-252-f3f3225a8e96> in <module>
+    ----> 1 a=d
+    
+    NameError: name 'd' is not defined
+    
+    In [253]: %debug
+    > <ipython-input-252-f3f3225a8e96>(1)<module>()
+    ----> 1 a=d
+    
+    ipdb>
+```
+
+## 3.5 **历史记录及外部文件操作**    
  - **%hist**
  `%hist` 能显示之前输入过的命令的历史，`-n`显示行号。
  
@@ -155,16 +203,35 @@ downgraded the prompt-toolkit to the version 1.0.15 and jupyter worked again.
     for i in a: print(i)
    ```
 
+ - **%pycat**
+ 查看python代码文件
+    ``` 
+    In [228]: %pycat test.py
+    # coding: utf-8
+    a = range(12)
+    for i in a: print(i)
+   ``` 
  - **%edit** 
      打开编辑器，关闭编辑器，代码会自动执行：）
      ```
      In [147]: %edit test.py
      Editing... done. Executing edited code...
    ```
-   
+  
+- **%writefile**
+编辑并写入外部文件
+In [238]: %%writefile test2.py
+     ...: a = 1
+     ...: b = 1
+     ...: a
+     ...:
+     ...:
+     ...: 
+       
  - **%load**
 load文件并执行
 `In [140]: %load test.py`
+    
      
  - **重新执行history命令**  
 %recall n-m  
@@ -179,6 +246,10 @@ load文件并执行
 
  - **lsmagic命令**
 显示所有的magic命令
+
+- **%env**
+可以查看以及设置环境变量
+In [173]: %env
 
  - **定义任何系统shell cmd别名**  
 `In [173]: alias ipc ipconfig /all ` 
@@ -259,5 +330,5 @@ notebook的菜单 <br>
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3NzQxMDQxM119
+eyJoaXN0b3J5IjpbNDU3NTE2MjAwXX0=
 -->
