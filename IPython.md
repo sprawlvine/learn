@@ -170,7 +170,8 @@ downgraded the prompt-toolkit to the version 1.0.15 and jupyter worked again.
     
     ipdb>
 ```
--- **手动快读进入debug**<br>
+
+   -- **手动快读进入debug**<br>
 ```
     In [251]: %pdb
     Automatic pdb calling has been turned OFF
@@ -220,14 +221,15 @@ downgraded the prompt-toolkit to the version 1.0.15 and jupyter worked again.
   
 - **%writefile**<br>
 编辑并写入外部文件<br>
-In [238]: %%writefile test2.py
-     ...: a = 1
-     ...: b = 1
-     ...: a
-     ...:
-     ...:
-     ...: 
-       
+    ```
+        In [238]: %%writefile test2.py
+         ...: a = 1
+         ...: b = 1
+         ...: a
+         ...:
+         ...:
+         ...: 
+    ```      
  - **%load**<br>
 load文件并执行<br>
 `In [140]: %load test.py`
@@ -329,5 +331,5 @@ notebook的菜单 <br>
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTU2MTczODhdfQ==
+eyJoaXN0b3J5IjpbNjE5OTU0NTcwXX0=
 -->
