@@ -177,6 +177,9 @@ load文件并执行
 
  ## 3.6 **其它操作**    
 
+ - **lsmagic命令**
+显示所有的magic命令
+
  - **定义任何系统shell cmd别名**  
 `In [173]: alias ipc ipconfig /all ` 
 
@@ -238,7 +241,9 @@ notebook的菜单 <br>
  cell-->
  或者用图标工具栏
 
- <font size="15" color="#00ff00">***cell内命令参考上面IPython console的命令***</font>
+ - **cell内命令参考上面IPython console的命令**
+ 
+ - **每个cell可以随时编辑重新运行，非常方便**
 
 ## 4.4. **有用的帮助**  
 -   Python
@@ -254,5 +259,5 @@ notebook的菜单 <br>
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczNjc4NDI4OF19
+eyJoaXN0b3J5IjpbMTg3NzQxMDQxM119
 -->
