@@ -44,12 +44,19 @@ downgraded the prompt-toolkit to the version 1.0.15 and jupyter worked again.
  
 # 3. **IPython使用**  
 ## 3.1. **运行/退出**  
- - **运行**
+ - **cmd 命令行运行**
+ 这是一个字符界面
 	```
 	D:\>ipython
 	或
 	D:\>ipython3
 	```
+ - **qtconsole运行**
+     这是一个图形界面
+	 ```
+	 D:\>jupyter qtconsole
+     ```
+     
  - **退出**
 	`In [15]: exit`
 
@@ -62,9 +69,11 @@ downgraded the prompt-toolkit to the version 1.0.15 and jupyter worked again.
 
 ## 3.1 **查询信息** 
  - **简单查询？**
+ 显示用法
  `object?`   -> Details about 'object'.
 
  - **详细查询？？**
+ 显示详细的代码
 `object??`  -> More detailed, verbose information about 'object'.
 
  - **who，whos查看变量**
@@ -109,7 +118,7 @@ downgraded the prompt-toolkit to the version 1.0.15 and jupyter worked again.
     ```
 ## 3.4 **运行程序文件、测量、调试**   
  - **%run test.py**
-在当前环境下直接执行 `test.py`，效果跟命令行下调用 `python test.py` 相同, 相当于` %load + enter`, 如果启动debug调试，加`-d`，即`%run -d test.py`
+在当前环境下直接执行 `test.py`，效果跟命令行下调用 `python test.py` 相同, 相当于` %load + enter`, 如果启动debug调试，加`-d`，即`%run -d test.py`，然后就可以进入pdb进行详细的调试了
 
  - **%time**
 `%time fun()` 跟 `timeit decorator` 作用类似，进行简单的 `一次`运行profile。
@@ -126,7 +135,7 @@ downgraded the prompt-toolkit to the version 1.0.15 and jupyter worked again.
    each)
    ```
    
-  - **程序中插入IPython断点调试**
+ - **程序中插入IPython断点调试**
    如果程序是由命令行开始执行的，即在命令行下输入 `python test.py`（大部分 Python 程序都是），那么你还可以利用 IPython 在你的程序任意地方进行断点调试！
 ```   
     import IPython as ipy
@@ -153,7 +162,7 @@ downgraded the prompt-toolkit to the version 1.0.15 and jupyter worked again.
      Editing... done. Executing edited code...
    ```
    
-  - **%load**
+ - **%load**
 load文件并执行
 `In [140]: %load test.py`
      
@@ -174,15 +183,76 @@ load文件并执行
  - **%automagic**
 `%automagic` 是打开的状态的话，所有 magic function 不需要在前面加 `%` 就能正确调用。
            
-
+# 4. **jupyter使用**  
   
+## 4.1. **运行/退出**  
+ - **jupyter运行**
+	```
+	D:\>jupyter
+	```
+ - **qtconsole运行**
+     这是一个图形界面console
+	 ```
+	 D:\>jupyter qtconsole
+     ```
+     
+ - **退出**
+	`In [15]: exit`
+	
+## 4.2. **notebook操作**
+ - **创建一个Notebook**
+jupyter的菜单
+File-->New Notebook-->Python3
 
-  
+ - **创建一个记录点**
+notebook的菜单
+File-->Save and Checkpoint
+
+ - **返回到某一个记录点**
+notebook的菜单
+File-->Revert to Checkpoint
+
+ - **下载notebook**
+notebook的菜单
+File--> Download as  
+     ```
+    ipynb
+    py  
+    md  
+    html
+    pdf
+   ```
+
+ - **关闭notebook**
+notebook的菜单
+ File--> Close and Halt
+
+## 4.2. **cell编辑操作**
+ notebook的菜单
+ Edit-->
+ Insert-->
+包括复制、粘贴、删除、合并、移动
+
+## 4.3. **cell运行**  
+ notebook的菜单
+ cell-->
+ 或者用图标工具栏
+
+ <font size="15" color="#00ff00">cell内命令参考上面IPython console的命令</font>
+
+## 4.4. **有用的帮助**  
+-   Python
+-   IPython
+-   NumPy
+-   SciPy
+-   MatPlotlib
+-   SymPy
+-   pandas
 
   
  
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4NjY2NjM5Nl19
+eyJoaXN0b3J5IjpbODYxNDA0MjI4XX0=
 -->
