@@ -200,19 +200,19 @@ load文件并执行
 	`In [15]: exit`
 	
 ## 4.2. **notebook操作**
- - **创建一个Notebook**
+ - **创建一个Notebook** 
 jupyter的菜单
 File-->New Notebook-->Python3
 
- - **创建一个记录点**
+ - **创建一个记录点** 
 notebook的菜单
 File-->Save and Checkpoint
 
- - **返回到某一个记录点**
+ - **返回到某一个记录点** 
 notebook的菜单
 File-->Revert to Checkpoint
 
- - **下载notebook**
+ - **下载notebook** 
 notebook的菜单
 File--> Download as  
      ```
@@ -223,18 +223,18 @@ File--> Download as
     pdf
    ```
 
- - **关闭notebook**
+ - **关闭notebook** 
 notebook的菜单
  File--> Close and Halt
 
 ## 4.2. **cell编辑操作**
- notebook的菜单
+ notebook的菜单 
  Edit-->
  Insert-->
 包括复制、粘贴、删除、合并、移动
 
 ## 4.3. **cell运行**  
- notebook的菜单
+ notebook的菜单 
  cell-->
  或者用图标工具栏
 
@@ -254,5 +254,5 @@ notebook的菜单
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODkzNzUzMDhdfQ==
+eyJoaXN0b3J5IjpbNTYxNzQwMTA0XX0=
 -->
