@@ -238,7 +238,7 @@ notebook的菜单
  cell-->
  或者用图标工具栏
 
- <font size="15" color="#00ff00">cell内命令参考上面IPython console的命令</font>
+ <font size="15" color="#00ff00">***cell内命令参考上面IPython console的命令***</font>
 
 ## 4.4. **有用的帮助**  
 -   Python
@@ -254,5 +254,5 @@ notebook的菜单
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODYxNDA0MjI4XX0=
+eyJoaXN0b3J5IjpbLTE2ODkzNzUzMDhdfQ==
 -->
