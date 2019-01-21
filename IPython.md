@@ -2,6 +2,7 @@
 ## 1.1 pip安装  
 
 1. **windows:**  
+       python安装时候可以勾选安装pip，如果独立安装，如下操作：
     ```
     curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py  
     python get-pip.py  
@@ -334,5 +335,5 @@ notebook的菜单 <br>
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTE0ODE3OTI1XX0=
+eyJoaXN0b3J5IjpbMzcyMDc4NDg5XX0=
 -->
