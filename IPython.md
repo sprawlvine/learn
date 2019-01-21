@@ -231,7 +231,7 @@ downgraded the prompt-toolkit to the version 1.0.15 and jupyter worked again.
          ...: 
     ```      
  - **%load**<br>
-load文件并执行<br>
+load文件的代码到当前的terminal，作为一个代码片段执行，这个和%run是不一样的,%run是直接执行文件<br>
 `In [140]: %load test.py`
     
      
@@ -259,6 +259,9 @@ In [173]: %env
  - **%automagic**<br>
 `%automagic` 是打开的状态的话，所有 magic function 不需要在前面加 `%` 就能正确调用。
            
+ - **使用Pylab进行交互式计算**
+ `%pylab`魔法命令可以使`Numpy`和`matplotlib`中的科学计算功能生效，这些功能被称为基于向量和矩阵的高效操作，交互可视化特性。
+        
 # 4. **jupyter使用**  
   
 ## 4.1. **运行/退出**  
@@ -331,5 +334,5 @@ notebook的菜单 <br>
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NjAzODQwNzRdfQ==
+eyJoaXN0b3J5IjpbOTE0ODE3OTI1LC0xOTYwMzg0MDc0XX0=
 -->
