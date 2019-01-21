@@ -1,24 +1,58 @@
 # 1. 安装  
-## 1.1 pip安装  
-
+## 1.1 python安装  
 1. **windows:**  
-       python安装时候可以勾选安装pip，如果独立安装，如下操作：
+    下载: [`https://www.python.org/downloads/release`](https://www.python.org/downloads/release)    
+      ***`注：python安装时候可以勾选安装pip`***  
+      
+ 2. **linux以debian为例：**  
+ - **Python 2:**  
     ```
-    curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py  
-    python get-pip.py  
+    sudo apt install python  
     ```  
-3. **debian下：**  
-+ **只有一份python环境或者多份环境下的Python 2:**  
+ - **Python 3:**  
+    ```
+    sudo apt install python3  
+    ```
+    
+## 1.2 pip安装  
+
+ 1. **windows:**  
+       python安装时候可以勾选安装pip，如果独立安装，如下操作：
+       下载： [`https://bootstrap.pypa.io/get-pip.py`](https://bootstrap.pypa.io/get-pip.py)
+       安装：`python get-pip.py`
+       
+ 2. **linux以debian为例：**  
+ - **Python 2:**  
     ```
     sudo apt install python-pip  
     ```  
-+ **Python 3:**  
+ - **Python 3:**  
     ```
     sudo apt install python3-pip  
     ```
   
 ## 1.2 IPython 安装 
+1. **Windows**
+如果windos下安装了多份python，比如同时安装3和2,以下办法可以做到方便地调用2和3的ipython： 
+     1. 先安装python 2.x，然后在cmd下安装ipython
+       `python get-pip.py`（可选手动方式）
+       `python -m pip install ipython`
+       `python -m pip install jupyter`
+       
+     2. 再安装3.x，然后在cmd下安装ipython
+       `python get-pip.py`（可选手动方式）
+       `python -m pip install ipython`
+       `python -m pip install jupyter`
+       
+    3. 修改路径使2能同时方便调用运行
+        - 在path环境变量末尾加入2的scripts子目录的路径，如：
+           `path = %path%;c:\python27\scripts`
+        - 重新命名2的jupyter    
+          重命名c:\python27\scripts\jupyter.exe 为 jupyter2.exe
+       
+       然后就可以在cmd terminal中，直接执行`ipython2/jupyter2`来调用`2`的ipython；直接执行 `ipython`，则是调用`python3`的ipython
     ```
+2. **linux以debian为例**    
     只有一份python环境或者多份环境下的python2:
     sudo pip install ipython
     sudo pip install jupyter
@@ -335,5 +369,5 @@ notebook的菜单 <br>
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzcyMDc4NDg5XX0=
+eyJoaXN0b3J5IjpbLTg3MTM4NTU4OF19
 -->
