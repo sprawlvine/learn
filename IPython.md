@@ -225,7 +225,10 @@ downgraded the prompt-toolkit to the version 1.0.15 and jupyter worked again.
     
     ipdb>
     ```
+- **%tb**<br>
+    `出现异常时查看堆栈`
 
+ 
 ## 3.6 **历史记录及外部文件操作**    
  - **%hist**<br>
  `%hist` 能显示之前输入过的命令的历史，`-n`显示行号。
@@ -369,5 +372,5 @@ notebook的菜单 <br>
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3MTM4NTU4OF19
+eyJoaXN0b3J5IjpbNzg5OTg3NjAyLC04NzEzODU1ODhdfQ==
 -->
