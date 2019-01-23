@@ -212,9 +212,7 @@ wheel – Python 分发的新标准，意在取代 eggs。
 
 ### 图像处理
 + **PIL**  
-+ **nude**
-  裸体检测
-  
+
 + **pyBarcode**  
   条形码
   
@@ -261,7 +259,8 @@ pytesseract – Google Tesseract OCR 的另一个封装(wrapper)。
 
 + **atexit**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzMTE5MTc1OSwtODA1MDU4NDkxLDEzNz
-kxMDE2ODgsLTk0OTE0ODM0MCwyMzkwMjY2OTUsMTE1ODcxMzg3
-MCwxNjQzMDEzNDgyLDg5OTcxODI2Niw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbLTI4ODE4NjkwNCwxNDMxMTkxNzU5LC04MD
+UwNTg0OTEsMTM3OTEwMTY4OCwtOTQ5MTQ4MzQwLDIzOTAyNjY5
+NSwxMTU4NzEzODcwLDE2NDMwMTM0ODIsODk5NzE4MjY2LDczMD
+k5ODExNl19
 -->
