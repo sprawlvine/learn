@@ -1,9 +1,9 @@
 
-# 1.开发环境
+# 1. 开发环境
 + **ipython**
 [ipython入门](https://github.com/sprawlvine/learn/blob/master/IPython.md)
 
-# python环境管理
+# 2. python环境管理
 p
 pyenv
 vex
@@ -12,7 +12,7 @@ virtualenvwrapper
 + **virtualenv**  
   创建独立 Python 环境的工具
   
-##  包管理
+# 3. 包管理
 pip – Python 包和依赖关系管理工具。  
 pip-tools – 保证 Python 包依赖关系更新的一组工具。  
 conda – 跨平台，Python 二进制包管理工具。  
@@ -151,6 +151,6 @@ wheel – Python 分发的新标准，意在取代 eggs。
 
 + **atexit**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTYzODI5MzEsMTY0MzAxMzQ4Miw4OT
-k3MTgyNjYsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbMjU5NjQyMDA5LDE2NDMwMTM0ODIsODk5Nz
+E4MjY2LDczMDk5ODExNl19
 -->
