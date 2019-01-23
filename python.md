@@ -86,13 +86,14 @@
 +  **itertools**
   迭代器
 
-## 序列化
+## 序列化、反序列化
 +  **pickle/cPickle**
-  序列化
+  The [`pickle`](https://docs.python.org/3/library/pickle.html#module-pickle "pickle: Convert Python objects to streams of bytes and back.") module implements binary protocols for serializing and de-serializing a Python object structure
+  
 + 
 + 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3ODcwNzAwMyw4OTk3MTgyNjYsNzMwOT
+eyJoaXN0b3J5IjpbLTY3OTE4MDY5Myw4OTk3MTgyNjYsNzMwOT
 k4MTE2XX0=
 -->
