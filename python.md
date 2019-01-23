@@ -1,4 +1,10 @@
 
+# .基础工具模块
++ **pip**
++ **ipython**
++ **pdb**
++ **virtualenv**
+
 # .python第三方库
 
 + **shutil**     
@@ -65,6 +71,6 @@
 + 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ0NDg3MzI2NSw4OTk3MTgyNjYsNzMwOT
-k4MTE2XX0=
+eyJoaXN0b3J5IjpbMTg2NDQ4NTIwLDg5OTcxODI2Niw3MzA5OT
+gxMTZdfQ==
 -->
