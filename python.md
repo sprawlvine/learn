@@ -150,6 +150,31 @@ wheel – Python 分发的新标准，意在取代 eggs。
   xml转dict
   
 + **scrapy** 
+### 爬虫
+Scrapy – 一个快速高级的屏幕爬取及网页采集框架。  
+cola – 一个分布式爬虫框架。  
+Demiurge – 基于PyQuery 的爬虫微型框架。  
+feedparser – 通用 feed 解析器。  
+Grab – 站点爬取框架。  
+MechanicalSoup – 用于自动和网络站点交互的 Python 库。  
+portia – Scrapy 可视化爬取。  
+pyspider – 一个强大的爬虫系统。  
+RoboBrowser – 一个简单的，Python 风格的库，用来浏览网站，而不需要一个独立安装的浏览器。  
+网页内容提取
+
+用于进行网页内容提取的库。
+
+Haul – 一个可以扩展的图像爬取工具。  
+html2text – 将 HTML 转换为 Markdown 格式文本  
+lassie – 人性化的网页内容检索库。  
+micawber -一个小型网页内容提取库，用来从 URLs 提取富内容。  
+newspaper – 使用 Python 进行新闻提取，文章提取以及内容策展。  
+opengraph – 一个用来解析开放内容协议(Open Graph Protocol)的 Python模块。  
+python-goose – HTML内容/文章提取器。  
+python-readability- arc90 公司 readability 工具的 Python 高速端口  
+sanitize – 为杂乱的数据世界带来调理性。  
+sumy – 一个为文本文件和 HTML 页面进行自动摘要的模块。  
+textract – 从任何格式的文档中提取文本，Word，PowerPoint，PDFs 等等。
 
 ### 迭代器    
 +  **itertools**
@@ -236,7 +261,7 @@ pytesseract – Google Tesseract OCR 的另一个封装(wrapper)。
 
 + **atexit**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3OTEwMTY4OCwtOTQ5MTQ4MzQwLDIzOT
-AyNjY5NSwxMTU4NzEzODcwLDE2NDMwMTM0ODIsODk5NzE4MjY2
-LDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbNzI5NDc1Mzk1LDEzNzkxMDE2ODgsLTk0OT
+E0ODM0MCwyMzkwMjY2OTUsMTE1ODcxMzg3MCwxNjQzMDEzNDgy
+LDg5OTcxODI2Niw3MzA5OTgxMTZdfQ==
 -->
