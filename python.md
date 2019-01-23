@@ -81,20 +81,18 @@
   
 +  **Flake8**
     静态检查工具
-    
+
+## 迭代器    
 +  **itertools**
   迭代器
 
-
-
-
-
+## 序列化
 +  **pickle/cPickle**
   序列化
 + 
 + 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxODY2OTIwOSw4OTk3MTgyNjYsNzMwOT
+eyJoaXN0b3J5IjpbLTM3ODcwNzAwMyw4OTk3MTgyNjYsNzMwOT
 k4MTE2XX0=
 -->
