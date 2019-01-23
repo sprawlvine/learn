@@ -260,9 +260,15 @@ pytesseract – Google Tesseract OCR 的另一个封装(wrapper)。
     静态检查工具
 
 + **atexit**
+
+```mermaid
+sequenceDiagram
+Alice ->> Bob: aaa?
+Bob-->>John: bbb?
+Bob-->>Alice: ddd?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODU0MTQ1NjQsNzcxNjg2ODgwLDE0Mz
-ExOTE3NTksLTgwNTA1ODQ5MSwxMzc5MTAxNjg4LC05NDkxNDgz
-NDAsMjM5MDI2Njk1LDExNTg3MTM4NzAsMTY0MzAxMzQ4Miw4OT
-k3MTgyNjYsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbLTE1OTMwMzQxNCwtMTU4NTQxNDU2NCw3Nz
+E2ODY4ODAsMTQzMTE5MTc1OSwtODA1MDU4NDkxLDEzNzkxMDE2
+ODgsLTk0OTE0ODM0MCwyMzkwMjY2OTUsMTE1ODcxMzg3MCwxNj
+QzMDEzNDgyLDg5OTcxODI2Niw3MzA5OTgxMTZdfQ==
 -->
