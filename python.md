@@ -32,7 +32,9 @@
 +  **strong text**
 + **virtualenv**  
   创建独立 Python 环境的工具
-  
+
++ **urllib/urllib2/httplib**  
+
 +  **requests**
   人性化的HTTP请求库
     
@@ -47,16 +49,18 @@
   
 +  **Flake8**
     静态检查工具
-+ 
-+ 
-+ 
-+ 
-+ 
+    
++  **itertools**
++  **re**
++  **pdb**
++  **traceback**
++  **pprint**
++  **logging**
 + 
 + 
 + 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5Mjc3OTUzMiw4OTk3MTgyNjYsNzMwOT
-k4MTE2XX0=
+eyJoaXN0b3J5IjpbLTE3ODU4Njc2OTEsODk5NzE4MjY2LDczMD
+k5ODExNl19
 -->
