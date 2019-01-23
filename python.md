@@ -185,7 +185,9 @@ wheel – Python 分发的新标准，意在取代 eggs。
 + **pyBarcode**  
   条形码
   
-+ 
++ **python-qrcode**
+  二维码生成器
+  
 ### 科学计算
 + **numpy**
 +  **scipy**
@@ -222,7 +224,7 @@ wheel – Python 分发的新标准，意在取代 eggs。
 
 + **atexit**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0MjI2ODksLTk0OTE0ODM0MCwyMzkwMj
-Y2OTUsMTE1ODcxMzg3MCwxNjQzMDEzNDgyLDg5OTcxODI2Niw3
-MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbLTE4ODA0MDQwMzAsLTk0OTE0ODM0MCwyMz
+kwMjY2OTUsMTE1ODcxMzg3MCwxNjQzMDEzNDgyLDg5OTcxODI2
+Niw3MzA5OTgxMTZdfQ==
 -->
