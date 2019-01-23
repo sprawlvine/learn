@@ -48,6 +48,7 @@ wheel – Python 分发的新标准，意在取代 eggs。
   反汇编
 
 ### 文本处理
++ **chardet** 
 +  **re**
 
 ### 命令行   
@@ -190,7 +191,7 @@ wheel – Python 分发的新标准，意在取代 eggs。
 
 + **atexit**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjgyNzUxMTksLTk0OTE0ODM0MCwyMz
-kwMjY2OTUsMTE1ODcxMzg3MCwxNjQzMDEzNDgyLDg5OTcxODI2
-Niw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbMTMzNDIyNzIzOSwtOTQ5MTQ4MzQwLDIzOT
+AyNjY5NSwxMTU4NzEzODcwLDE2NDMwMTM0ODIsODk5NzE4MjY2
+LDczMDk5ODExNl19
 -->
