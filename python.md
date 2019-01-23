@@ -13,15 +13,15 @@ virtualenvwrapper
   创建独立 Python 环境的工具
   
 # 3. 包管理
+**安装**：
 pip – Python 包和依赖关系管理工具。  
-  
 wheel – Python 分发的新标准，意在取代 eggs。
 
-**本地 PyPI 仓库服务和代理**
-
+**仓库管理**：
+ PyPI
 warehouse – 下一代 PyPI。  
-打包为可执行文件以便分发。
 
+**打包**：
 PyInstaller – 将 Python 程序转换成独立的执行文件（跨平台）。  
 dh-virtualenv – 构建并将 virtualenv 虚拟环境作为一个 Debian 包来发布。  
 Nuitka – 将脚本、模块、包编译成可执行文件或扩展模块。  
@@ -184,7 +184,7 @@ pynsist – 一个用来创建 Windows 安装程序的工具，可以在安装�
 
 + **atexit**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5OTAxMDkxOCwyMzkwMjY2OTUsMTE1OD
+eyJoaXN0b3J5IjpbLTk0OTE0ODM0MCwyMzkwMjY2OTUsMTE1OD
 cxMzg3MCwxNjQzMDEzNDgyLDg5OTcxODI2Niw3MzA5OTgxMTZd
 fQ==
 -->
