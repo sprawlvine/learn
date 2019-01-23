@@ -32,12 +32,15 @@
 +  **strong text**
 + **virtualenv**  
   创建独立 Python 环境的工具
-+  **requests**  
+  
++  **requests**
+  人性化的HTTP请求库
+    
 +  **httpie**  
   一个命令行HTTP 客户端，cURL 的替代品，易用性更好
 +  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0NjcwMDUxNyw4OTk3MTgyNjYsNzMwOT
-k4MTE2XX0=
+eyJoaXN0b3J5IjpbNjQzMTc3OTAwLDg5OTcxODI2Niw3MzA5OT
+gxMTZdfQ==
 -->
