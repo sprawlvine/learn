@@ -23,8 +23,7 @@ warehouse – 下一代 PyPI。
 **打包**：
 PyInstaller – 将 Python 程序转换成独立的执行文件（跨平台）。  
 dh-virtualenv – 构建并将 virtualenv 虚拟环境作为一个 Debian 包来发布。  
-Nuitka – 将脚本、模块、包编译成可执行文件或扩展模块。  
-py2app – 将 Python 脚本变为独立软件包（Mac OS X）。  
+Nuitka – 将脚本、模块、包编译成可执行文件或扩展模块。   
 py2exe – 将 Python 脚本变为独立软件包（Windows）。  
 pynsist – 一个用来创建 Windows 安装程序的工具，可以在安装程序中打包 Python本身。
 
@@ -185,7 +184,7 @@ wheel – Python 分发的新标准，意在取代 eggs。
 
 + **atexit**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODQ4Mzg0MDcsLTk0OTE0ODM0MCwyMz
-kwMjY2OTUsMTE1ODcxMzg3MCwxNjQzMDEzNDgyLDg5OTcxODI2
-Niw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbMTE5Mjc2NDkzOSwtOTQ5MTQ4MzQwLDIzOT
+AyNjY5NSwxMTU4NzEzODcwLDE2NDMwMTM0ODIsODk5NzE4MjY2
+LDczMDk5ODExNl19
 -->
