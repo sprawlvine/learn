@@ -6,6 +6,17 @@
 + **virtualenv**
 
 # .python第三方库
+## .调试日志
++  **pdb**
++  **traceback**
++  **logging**
+
+## .文本处理
++  **pprint**  
++  **re**
+
+## .命令行   
++ **click**  
 
 + **shutil**     
   shutil - Utility functions for copying and archiving files and directory trees  
@@ -21,8 +32,8 @@
   the API) of threading.py but uses processes instead of threads.  A
   subpackage 'multiprocessing.dummy' has the same API but is a simple
    wrapper for 'threading'.  
-## .命令行   
-+ **click**  
+
+
 
 + **functools**
 +  **collections**  
@@ -61,17 +72,16 @@
 +  **itertools**
   迭代器
 
-+  **pprint**  
-+  **re**
-+  **pdb**
-+  **traceback**
-+  **logging**
+
+
+
+
 +  **pickle/cPickle**
   序列化
 + 
 + 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyNzk4NzMwMSw4OTk3MTgyNjYsNzMwOT
-k4MTE2XX0=
+eyJoaXN0b3J5IjpbLTEwMDA3NjY1NjIsODk5NzE4MjY2LDczMD
+k5ODExNl19
 -->
