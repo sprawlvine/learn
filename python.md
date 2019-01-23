@@ -197,10 +197,11 @@ textract – 从任何格式的文档中提取文本，Word，PowerPoint，PDFs 
  A thread-safe FIFO implementation
 
 ### 算法
-+ **hashlib md5, sha**   
-+ algorithms 
++ **algorithms** 
   一个 Python 算法模块  
-+ python-patterns Python 设计模式的集合。
+  
++ **python-patterns** 
+  Python 设计模式的集合。
 
 ### json
 + **json/simplejson**  
@@ -271,7 +272,7 @@ pytesseract – Google Tesseract OCR 的另一个封装(wrapper)。
 
 + **atexit**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwNDE0OTcyMiwtODA1MDU4NDkxLDEzNz
-kxMDE2ODgsLTk0OTE0ODM0MCwyMzkwMjY2OTUsMTE1ODcxMzg3
-MCwxNjQzMDEzNDgyLDg5OTcxODI2Niw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbNzIyOTc5MDcwLC04MDUwNTg0OTEsMTM3OT
+EwMTY4OCwtOTQ5MTQ4MzQwLDIzOTAyNjY5NSwxMTU4NzEzODcw
+LDE2NDMwMTM0ODIsODk5NzE4MjY2LDczMDk5ODExNl19
 -->
