@@ -22,12 +22,12 @@
 +  **glob**  
   Use Unix shell rules to fine filenames matching a pattern.
   
-+ 
++  **os**
 + 
 + 
 + 
 + 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODM4OTMwMDcsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbMjAwMzUwNTI3OSw3MzA5OTgxMTZdfQ==
 -->
