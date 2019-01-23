@@ -11,6 +11,7 @@
 +  **traceback**
 +  **logging**
 +  **cprofile**
++  **timeit**
 
 ## 文本处理
 +  **re**
@@ -84,7 +85,10 @@
 
 ## 算法
 + **hashlib md5, sha**   
-+  
+
+## json
++ **json/simplejson**  
+
 +  **其它**
 + **functools**
  
@@ -96,6 +100,6 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxMzY1NzQxMSw4OTk3MTgyNjYsNzMwOT
-k4MTE2XX0=
+eyJoaXN0b3J5IjpbLTEyMzMxMzYxMDEsODk5NzE4MjY2LDczMD
+k5ODExNl19
 -->
