@@ -75,6 +75,9 @@ wheel – Python 分发的新标准，意在取代 eggs。
 + 
 + **colorama** 
   跨平台彩色终端文本。
+
++ **bashplotlib** 
+  在终端中进行基本绘图。
   
 ### 文件、目录处理
 + **shutil**     
@@ -213,7 +216,7 @@ wheel – Python 分发的新标准，意在取代 eggs。
 
 + **atexit**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzcxMjc2MzM1LC05NDkxNDgzNDAsMjM5MD
-I2Njk1LDExNTg3MTM4NzAsMTY0MzAxMzQ4Miw4OTk3MTgyNjYs
-NzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbLTE0OTg3Njg4OTMsLTk0OTE0ODM0MCwyMz
+kwMjY2OTUsMTE1ODcxMzg3MCwxNjQzMDEzNDgyLDg5OTcxODI2
+Niw3MzA5OTgxMTZdfQ==
 -->
