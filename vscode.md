@@ -21,23 +21,23 @@
     安装editorconfig插件
     
 # 3. 使用    
-- workspace理解
+- **workspace理解**
 	```
     workspace包含了一组目录和文件，类似工程的概念
 	```	
- - 显示符号表
+- **显示符号表**
 	点击 `explore`窗口，`outline`
 	
- - 多行注释快捷键
+- **多行注释快捷键**
 	```
     ctrl + shit + A	 
 	```
- - 单行注释快捷键
+- **单行注释快捷键**
 	```
     ctrl + /
 	```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTk5MjY3NjQsMTA2NjI5MTcyLC0xNz
-IzMzE3NTMyLDI2NzA1ODAwMyw2MTIzNDM1MzEsLTU5ODg3NTAz
-Miw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbMTI1OTA2MDE0MCwtMTE5OTkyNjc2NCwxMD
+Y2MjkxNzIsLTE3MjMzMTc1MzIsMjY3MDU4MDAzLDYxMjM0MzUz
+MSwtNTk4ODc1MDMyLDczMDk5ODExNl19
 -->
