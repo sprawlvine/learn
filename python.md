@@ -3,7 +3,7 @@
 + **ipython**
 [ipython入门](https://github.com/sprawlvine/learn/blob/master/IPython.md)
 
-## python环境
+# python环境管理
 p
 pyenv
 vex
@@ -151,6 +151,6 @@ wheel – Python 分发的新标准，意在取代 eggs。
 
 + **atexit**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDgxMjEyNSwxNjQzMDEzNDgyLDg5OT
-cxODI2Niw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbLTE3MTYzODI5MzEsMTY0MzAxMzQ4Miw4OT
+k3MTgyNjYsNzMwOTk4MTE2XX0=
 -->
