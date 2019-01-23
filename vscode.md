@@ -14,15 +14,17 @@
     sudo apt-get update
     sudo apt-get install code # or code-insiders
     ```
-# 2.配置
+# 2. 配置
 ## 2.1 tab缩进4个空格的设置
 
     安装editorconfig插件
     
+# 3. 使用    
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTU1OTQ0NDY2LC0xNzIzMzE3NTMyLDI2Nz
-A1ODAwMyw2MTIzNDM1MzEsLTU5ODg3NTAzMiw3MzA5OTgxMTZd
-fQ==
+eyJoaXN0b3J5IjpbLTE3OTY1NzM1NjMsLTE3MjMzMTc1MzIsMj
+Y3MDU4MDAzLDYxMjM0MzUzMSwtNTk4ODc1MDMyLDczMDk5ODEx
+Nl19
 -->
