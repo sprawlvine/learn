@@ -169,9 +169,9 @@ wheel – Python 分发的新标准，意在取代 eggs。
 
 + **pyspider** 
   一个强大的爬虫系统。 
-sanitize – 为杂乱的数据世界带来调理性。  
-sumy – 一个为文本文件和 HTML 页面进行自动摘要的模块。  
-textract – 从任何格式的文档中提取文本，Word，PowerPoint，PDFs 等等。
+
++ **textract** 
+  从任何格式的文档中提取文本，Word，PowerPoint，PDFs 等等。
 
 ### 迭代器    
 +  **itertools**
@@ -262,7 +262,7 @@ pytesseract – Google Tesseract OCR 的另一个封装(wrapper)。
 
 + **atexit**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQyMDMxNTA3LC04MDUwNTg0OTEsMTM3OT
+eyJoaXN0b3J5IjpbNDIzOTA5MDAyLC04MDUwNTg0OTEsMTM3OT
 EwMTY4OCwtOTQ5MTQ4MzQwLDIzOTAyNjY5NSwxMTU4NzEzODcw
 LDE2NDMwMTM0ODIsODk5NzE4MjY2LDczMDk5ODExNl19
 -->
