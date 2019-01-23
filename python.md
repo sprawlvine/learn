@@ -61,7 +61,7 @@ wheel – Python 分发的新标准，意在取代 eggs。
   Use Unix shell rules to fine filenames matching a pattern.
 
 + **imghdr**  
- Python 标准库）检测图片类型
+  检测图片类型
  
 ### 事件调度处理   
 + **sched**  
@@ -187,7 +187,7 @@ wheel – Python 分发的新标准，意在取代 eggs。
 
 + **atexit**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjgxMjM4ODEsLTk0OTE0ODM0MCwyMz
-kwMjY2OTUsMTE1ODcxMzg3MCwxNjQzMDEzNDgyLDg5OTcxODI2
-Niw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbLTU0NjA3NDMzOCwtOTQ5MTQ4MzQwLDIzOT
+AyNjY5NSwxMTU4NzEzODcwLDE2NDMwMTM0ODIsODk5NzE4MjY2
+LDczMDk5ODExNl19
 -->
