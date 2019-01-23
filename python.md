@@ -19,7 +19,7 @@
 + **click**  
 + **functools**
 +  **collections**
-
+  [collections](http://link.zhihu.com/?target=https%3A//pymotw.com/2/collections/index.html%23module-collections)
 + 
 + 
 + 
@@ -28,5 +28,5 @@
 + 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODMyMzU4MDA0LDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbLTE2OTUzNzM5NTksNzMwOTk4MTE2XX0=
 -->
