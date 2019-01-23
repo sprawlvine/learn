@@ -63,6 +63,8 @@
 +  **requests**
   人性化的HTTP请求库
 
++ **lxml**
+
 +  **httpie**  
   一个命令行HTTP 客户端，cURL 的替代品，易用性更好
 
@@ -91,6 +93,9 @@
 ## json
 + **json/simplejson**  
 
+## ssh
++ **paramiko**
+
 +  **其它**
 + **functools**
  
@@ -102,6 +107,6 @@
 
 + **atexit**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODMxMTMwMzIsODk5NzE4MjY2LDczMD
+eyJoaXN0b3J5IjpbLTE3OTE1OTc2MjMsODk5NzE4MjY2LDczMD
 k5ODExNl19
 -->
