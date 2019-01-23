@@ -50,6 +50,12 @@ wheel – Python 分发的新标准，意在取代 eggs。
 ### 文本处理
 + **chardet** 
 +  **re**
++  **fuzzywuzzy**
+  模糊字符串匹配
++ **phonenumbers**    
++  **PLY**
+  lex 和 yacc 解析工具的 Python 实现
++ 
 
 ### 命令行   
 + **click**  
@@ -191,7 +197,7 @@ wheel – Python 分发的新标准，意在取代 eggs。
 
 + **atexit**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzNDIyNzIzOSwtOTQ5MTQ4MzQwLDIzOT
-AyNjY5NSwxMTU4NzEzODcwLDE2NDMwMTM0ODIsODk5NzE4MjY2
-LDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbNzQwMzUzMzkzLC05NDkxNDgzNDAsMjM5MD
+I2Njk1LDExNTg3MTM4NzAsMTY0MzAxMzQ4Miw4OTk3MTgyNjYs
+NzMwOTk4MTE2XX0=
 -->
