@@ -179,7 +179,9 @@ wheel – Python 分发的新标准，意在取代 eggs。
 + 
 ### 图像处理
 + **PIL**  
-
++ **nude**
+  裸体检测
+  
 ### 科学计算
 + **numpy**
 +  **scipy**
@@ -216,7 +218,7 @@ wheel – Python 分发的新标准，意在取代 eggs。
 
 + **atexit**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTg3Njg4OTMsLTk0OTE0ODM0MCwyMz
-kwMjY2OTUsMTE1ODcxMzg3MCwxNjQzMDEzNDgyLDg5OTcxODI2
-Niw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbLTEwMjE3NDQyMiwtOTQ5MTQ4MzQwLDIzOT
+AyNjY5NSwxMTU4NzEzODcwLDE2NDMwMTM0ODIsODk5NzE4MjY2
+LDczMDk5ODExNl19
 -->
