@@ -164,8 +164,14 @@ pynsist – 一个用来创建 Windows 安装程序的工具，可以在安装�
 + **numpy**
 +  **scipy**
 
+### 数据处理
++ **pandas**
+
 ### 图形
 + **matlotlib**
+
+### 机器学习
++ **scikit-learn**   
 + 
 ### 其它
 + **functools**
@@ -178,6 +184,6 @@ pynsist – 一个用来创建 Windows 安装程序的工具，可以在安装�
 
 + **atexit**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxNTU0MDA0LDExNTg3MTM4NzAsMTY0Mz
-AxMzQ4Miw4OTk3MTgyNjYsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbLTc0Njg5NjUzMSwxMTU4NzEzODcwLDE2ND
+MwMTM0ODIsODk5NzE4MjY2LDczMDk5ODExNl19
 -->
