@@ -1,7 +1,5 @@
-# 参考
-  **[vinta/awesome-python · GitHub](https://github.com/vinta/awesome-python)**
 
-# 开发环境
+# 1.开发环境
 + **ipython**
 [ipython入门](https://github.com/sprawlvine/learn/blob/master/IPython.md)
 
@@ -22,6 +20,9 @@ Curdling – 管理 Python 包的命令行工具。
 wheel – Python 分发的新标准，意在取代 eggs。
 
 # python第三方库
+## 参考
+  **[vinta/awesome-python · GitHub](https://github.com/vinta/awesome-python)**
+  
 ## 调试、度量、日志
 +  **pdb**
 + **ipdb**
@@ -150,6 +151,6 @@ wheel – Python 分发的新标准，意在取代 eggs。
 
 + **atexit**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0MDc0Nzc2OSwxNjQzMDEzNDgyLDg5OT
+eyJoaXN0b3J5IjpbLTE0MDgxMjEyNSwxNjQzMDEzNDgyLDg5OT
 cxODI2Niw3MzA5OTgxMTZdfQ==
 -->
