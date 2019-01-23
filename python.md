@@ -11,6 +11,15 @@ virtualenvwrapper
 
 + **virtualenv**  
   创建独立 Python 环境的工具
+$ sudo pip install virtualenv
+
+$ mkdir myproject
+$ cd myproject
+$ virtualenv venv
+New python executable in venv/bin/python
+Installing setuptools, pip............done.
+
+
 
 # 3. 知识点滴
 ## 3.1 list
@@ -309,8 +318,9 @@ pytesseract – Google Tesseract OCR 的另一个封装(wrapper)。
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwNTY0NjQzNSwtMTU4NTQxNDU2NCw3Nz
-E2ODY4ODAsMTQzMTE5MTc1OSwtODA1MDU4NDkxLDEzNzkxMDE2
-ODgsLTk0OTE0ODM0MCwyMzkwMjY2OTUsMTE1ODcxMzg3MCwxNj
-QzMDEzNDgyLDg5OTcxODI2Niw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbMTMxMzM5Nzg4MiwxNzA1NjQ2NDM1LC0xNT
+g1NDE0NTY0LDc3MTY4Njg4MCwxNDMxMTkxNzU5LC04MDUwNTg0
+OTEsMTM3OTEwMTY4OCwtOTQ5MTQ4MzQwLDIzOTAyNjY5NSwxMT
+U4NzEzODcwLDE2NDMwMTM0ODIsODk5NzE4MjY2LDczMDk5ODEx
+Nl19
 -->
