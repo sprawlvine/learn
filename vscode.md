@@ -15,11 +15,14 @@
     sudo apt-get install code # or code-insiders
     ```
 # 2. 配置
+
 ## 2.1 tab缩进4个空格的设置
 
     安装editorconfig插件
     
 # 3. 使用    
+- workspace理解
+workspace包含了一组目录和文件，类似gongchen
 
  - 显示符号表
 	点击 `explore`窗口，`outline`
@@ -33,7 +36,7 @@
     ctrl + /
 	```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2NjI5MTcyLC0xNzIzMzE3NTMyLDI2Nz
-A1ODAwMyw2MTIzNDM1MzEsLTU5ODg3NTAzMiw3MzA5OTgxMTZd
-fQ==
+eyJoaXN0b3J5IjpbMTExODk0MzQ3MCwxMDY2MjkxNzIsLTE3Mj
+MzMTc1MzIsMjY3MDU4MDAzLDYxMjM0MzUzMSwtNTk4ODc1MDMy
+LDczMDk5ODExNl19
 -->
