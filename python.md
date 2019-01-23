@@ -59,11 +59,12 @@
 +  **traceback**
 +  **pprint**
 +  **logging**
-+ 
++  **pickle/cPickle**
+  序列化
 + 
 + 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTAzMjQ3Nyw4OTk3MTgyNjYsNzMwOT
+eyJoaXN0b3J5IjpbLTQ0NDg3MzI2NSw4OTk3MTgyNjYsNzMwOT
 k4MTE2XX0=
 -->
