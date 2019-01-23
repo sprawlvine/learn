@@ -24,19 +24,25 @@
  
  +  **glob**  
   Use Unix shell rules to fine filenames matching a pattern.
-   
+
+## 事件调度处理   
 + **sched**  
   The [sched](https://pymotw.com/2/sched/index.html#module-sched "sched: Generic event scheduler.") module implements a generic event scheduler for running tasks at specific times  
-  
+
+## 上下文  
 + **contextlib**    
   contextlib - Utilities for with-statement contexts  
-  
+
+## 线程、进程  
 + **multiprocessing**   
   This package is intended to duplicate the functionality (and much of
   the API) of threading.py but uses processes instead of threads.  A
   subpackage 'multiprocessing.dummy' has the same API but is a simple
    wrapper for 'threading'.  
 
++  **threading** 
+
+## 系统、shell交互
 
 
 + **functools**
@@ -49,8 +55,7 @@
  
 +  **SimpleHTTPServer**  
 +  **subprocess**  
-+  **threading**  
-+  **strong text**
+ 
 + **virtualenv**  
   创建独立 Python 环境的工具
 
@@ -85,6 +90,6 @@
 + 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQ4NDIxNzc0LDg5OTcxODI2Niw3MzA5OT
-gxMTZdfQ==
+eyJoaXN0b3J5IjpbLTE3ODkzNDY1NDUsODk5NzE4MjY2LDczMD
+k5ODExNl19
 -->
