@@ -34,7 +34,8 @@
   创建独立 Python 环境的工具
 
 + **urllib/urllib2/httplib**  
-
+  偏底层
+  
 +  **requests**
   人性化的HTTP请求库
     
@@ -61,6 +62,6 @@
 + 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODU4Njc2OTEsODk5NzE4MjY2LDczMD
-k5ODExNl19
+eyJoaXN0b3J5IjpbODY5MTA3MjAxLDg5OTcxODI2Niw3MzA5OT
+gxMTZdfQ==
 -->
