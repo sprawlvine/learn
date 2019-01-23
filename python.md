@@ -19,7 +19,8 @@
 + **click**  
 + **functools**
 +  **collections**
-+  **glob**
++  **glob**  
+  Use Unix shell rules to fine filenames matching a pattern.
 + 
 + 
 + 
@@ -27,5 +28,5 @@
 + 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDg4MzQ3NDQsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbMjAxMzY1MDc1NSw3MzA5OTgxMTZdfQ==
 -->
