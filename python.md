@@ -15,16 +15,16 @@ virtualenvwrapper
 # 3. 知识点滴
 ## 3.1 list
 
- - count <br> 
+ - **count** <br> 
 	```
-     In [20]: a
+    In [20]: a
     Out[20]: [2, 1, 4, 5, 6]
     
     In [24]: a.count(1)
     Out[24]: 1
 	```
 	
- - extend <br> 
+ - **extend** <br> 
 	```   
     In [17]: a
     Out[17]: [2, 1]
@@ -288,8 +288,8 @@ pytesseract – Google Tesseract OCR 的另一个封装(wrapper)。
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjcyMzQ5NDk4LC0xNTg1NDE0NTY0LDc3MT
-Y4Njg4MCwxNDMxMTkxNzU5LC04MDUwNTg0OTEsMTM3OTEwMTY4
-OCwtOTQ5MTQ4MzQwLDIzOTAyNjY5NSwxMTU4NzEzODcwLDE2ND
-MwMTM0ODIsODk5NzE4MjY2LDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbLTE1MDIzMTA2NDQsLTE1ODU0MTQ1NjQsNz
+cxNjg2ODgwLDE0MzExOTE3NTksLTgwNTA1ODQ5MSwxMzc5MTAx
+Njg4LC05NDkxNDgzNDAsMjM5MDI2Njk1LDExNTg3MTM4NzAsMT
+Y0MzAxMzQ4Miw4OTk3MTgyNjYsNzMwOTk4MTE2XX0=
 -->
