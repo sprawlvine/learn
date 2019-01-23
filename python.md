@@ -53,7 +53,7 @@
 + **os**
 + **subprocess**  
 + **sh**
-  sh is a full-fledged subprocess replacement for Python 2.6 - 3.5
+  sh is a full-fledged subprocess replacement
   
 ## 容器、部署
 + **virtualenv**  
@@ -140,6 +140,6 @@
 
 + **atexit**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDg0NTUwNjYsMTY0MzAxMzQ4Miw4OT
+eyJoaXN0b3J5IjpbLTE5MjYzODY4OTQsMTY0MzAxMzQ4Miw4OT
 k3MTgyNjYsNzMwOTk4MTE2XX0=
 -->
