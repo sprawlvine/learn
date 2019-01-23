@@ -5,10 +5,10 @@
 
 # 2. python环境管理
 ## 2.1 virtualenv 
- 使工程使用独立的 Python 环境的工具
- 1. **安装**
+ 使工程使用独立的 Python 环境，因为包含了通常工程文件会比较大
+ 1. **安装**<br>
     `$ sudo pip install virtualenv`
- 2. **创建项目虚拟环境**
+ 2. **创建项目虚拟环境**<br>
 	```
     $ mkdir myproject
     $ cd myproject
@@ -16,13 +16,13 @@
     New python executable in venv/bin/python
     Installing setuptools, pip............done.
 	```
- 3. **进入虚拟环境**
+ 3. **进入虚拟环境**<br>
     `$ . venv/bin/activate`
- 4. **干活**
+ 4. **干活**<br>
 	```
     $ pip install Click 
 	```
- 6. **离开**
+ 6. **离开**<br>
 	```
     $ deactivate
 	```
@@ -330,9 +330,9 @@ pytesseract – Google Tesseract OCR 的另一个封装(wrapper)。
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDE2NTk5NjksNDY2Mjg5MzQ5LDE3MD
-U2NDY0MzUsLTE1ODU0MTQ1NjQsNzcxNjg2ODgwLDE0MzExOTE3
-NTksLTgwNTA1ODQ5MSwxMzc5MTAxNjg4LC05NDkxNDgzNDAsMj
-M5MDI2Njk1LDExNTg3MTM4NzAsMTY0MzAxMzQ4Miw4OTk3MTgy
-NjYsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbNzQ3NzYzMDEyLDQ2NjI4OTM0OSwxNzA1Nj
+Q2NDM1LC0xNTg1NDE0NTY0LDc3MTY4Njg4MCwxNDMxMTkxNzU5
+LC04MDUwNTg0OTEsMTM3OTEwMTY4OCwtOTQ5MTQ4MzQwLDIzOT
+AyNjY5NSwxMTU4NzEzODcwLDE2NDMwMTM0ODIsODk5NzE4MjY2
+LDczMDk5ODExNl19
 -->
