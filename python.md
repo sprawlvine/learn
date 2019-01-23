@@ -149,9 +149,8 @@ wheel – Python 分发的新标准，意在取代 eggs。
  + **xmltodict**   
   xml转dict
   
-+ **scrapy** 
-### 爬虫
 
+### 爬虫
 + **Scrapy** 
   快速高级的屏幕爬取及网页采集框架。  
 
@@ -262,7 +261,7 @@ pytesseract – Google Tesseract OCR 的另一个封装(wrapper)。
 
 + **atexit**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDIzOTA5MDAyLC04MDUwNTg0OTEsMTM3OT
-EwMTY4OCwtOTQ5MTQ4MzQwLDIzOTAyNjY5NSwxMTU4NzEzODcw
-LDE2NDMwMTM0ODIsODk5NzE4MjY2LDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbMTQzMTE5MTc1OSwtODA1MDU4NDkxLDEzNz
+kxMDE2ODgsLTk0OTE0ODM0MCwyMzkwMjY2OTUsMTE1ODcxMzg3
+MCwxNjQzMDEzNDgyLDg5OTcxODI2Niw3MzA5OTgxMTZdfQ==
 -->
