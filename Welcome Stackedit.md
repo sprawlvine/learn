@@ -103,8 +103,8 @@ SmartyPants converts ASCII punctuation characters into "smart" typographic punct
 |Single backticks|`'Isn't this fun?'`            |'Isn't this fun?'            |
 |Quotes          |`"Isn't this fun?"`            |"Isn't this fun?"            |
 |Dashes          |`-- is en-dash, --- is em-dash`|-- is en-dash, --- is em-dash|
-[KaTex] 
 
+katex.render("c = \\pm\\sqrt{a^2 + b^2}", element, { throwOnError: false });
 ## KaTeX
 
 You can render LaTeX mathematical expressions using [KaTeX](https://khan.github.io/KaTeX/):
@@ -147,6 +147,6 @@ C --> D
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4ODkwMDM2MiwtMTEzNjcwNjg0NSwtNz
-EzNDc0NjgxLC03MTM0NzQ2ODEsLTE3NDM0NjQ0NjldfQ==
+eyJoaXN0b3J5IjpbOTgyNzI3MjQzLC0xMTM2NzA2ODQ1LC03MT
+M0NzQ2ODEsLTcxMzQ3NDY4MSwtMTc0MzQ2NDQ2OV19
 -->
