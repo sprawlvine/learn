@@ -21,10 +21,13 @@
     
 # 3. 使用    
 
-
+ - 多行注释快捷键
+ctrl + shit + A	 
+or
+ctrl +
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTY1NzM1NjMsLTE3MjMzMTc1MzIsMj
-Y3MDU4MDAzLDYxMjM0MzUzMSwtNTk4ODc1MDMyLDczMDk5ODEx
-Nl19
+eyJoaXN0b3J5IjpbMjMwOTEzMTkzLC0xNzIzMzE3NTMyLDI2Nz
+A1ODAwMyw2MTIzNDM1MzEsLTU5ODg3NTAzMiw3MzA5OTgxMTZd
+fQ==
 -->
