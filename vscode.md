@@ -22,12 +22,15 @@
 # 3. 使用    
 
  - 多行注释快捷键
-ctrl + shit + A	 
-or
-ctrl +
-
+	```
+    ctrl + shit + A	 
+	```
+ - 单行注释快捷键
+	```
+    ctrl + /
+	```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjMwOTEzMTkzLC0xNzIzMzE3NTMyLDI2Nz
-A1ODAwMyw2MTIzNDM1MzEsLTU5ODg3NTAzMiw3MzA5OTgxMTZd
-fQ==
+eyJoaXN0b3J5IjpbMTcwMzcyNzMxMSwtMTcyMzMxNzUzMiwyNj
+cwNTgwMDMsNjEyMzQzNTMxLC01OTg4NzUwMzIsNzMwOTk4MTE2
+XX0=
 -->
