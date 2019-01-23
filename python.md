@@ -251,7 +251,6 @@ pytesseract – Google Tesseract OCR 的另一个封装(wrapper)。
 ### 其它
 + **functools**
  
- 
 +  **pprint**  
 
 +  **Flake8**
@@ -259,8 +258,8 @@ pytesseract – Google Tesseract OCR 的另一个封装(wrapper)。
 
 + **atexit**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4ODE4NjkwNCwxNDMxMTkxNzU5LC04MD
-UwNTg0OTEsMTM3OTEwMTY4OCwtOTQ5MTQ4MzQwLDIzOTAyNjY5
-NSwxMTU4NzEzODcwLDE2NDMwMTM0ODIsODk5NzE4MjY2LDczMD
-k5ODExNl19
+eyJoaXN0b3J5IjpbNzcxNjg2ODgwLDE0MzExOTE3NTksLTgwNT
+A1ODQ5MSwxMzc5MTAxNjg4LC05NDkxNDgzNDAsMjM5MDI2Njk1
+LDExNTg3MTM4NzAsMTY0MzAxMzQ4Miw4OTk3MTgyNjYsNzMwOT
+k4MTE2XX0=
 -->
