@@ -52,26 +52,24 @@
 + **virtualenv**  
   创建独立 Python 环境的工具
 
-##
-+ **functools**
-+  **collections**  
+## web
++  **SimpleHTTPServer** 
  
-+  **pprint**  
-
- 
-+  **SimpleHTTPServer**  
-
- 
-
-
 + **urllib/urllib2/httplib**  
   偏底层
   
 +  **requests**
   人性化的HTTP请求库
-    
+
 +  **httpie**  
   一个命令行HTTP 客户端，cURL 的替代品，易用性更好
+      
++ **functools**
++  **collections**  
+ 
++  **pprint**  
+    
+
   
 +  **you-get**  
   一个 YouTube/Youku/Niconico 视频下载器  
@@ -95,6 +93,6 @@
 + 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDAxNDkyMTksODk5NzE4MjY2LDczMD
-k5ODExNl19
+eyJoaXN0b3J5IjpbMjA2Mzg1Njk2OSw4OTk3MTgyNjYsNzMwOT
+k4MTE2XX0=
 -->
