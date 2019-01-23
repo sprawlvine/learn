@@ -58,6 +58,8 @@
 ## web
 + **flask**  
 
++ **django**
+
 +  **SimpleHTTPServer** 
  
 + **urllib/urllib2/httplib**  
@@ -134,6 +136,6 @@
 
 + **atexit**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTI5MjAwNjksODk5NzE4MjY2LDczMD
-k5ODExNl19
+eyJoaXN0b3J5IjpbNTYxNzI5MTkxLDg5OTcxODI2Niw3MzA5OT
+gxMTZdfQ==
 -->
