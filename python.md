@@ -13,7 +13,8 @@ virtualenvwrapper
   创建独立 Python 环境的工具
 
 # 3. 知识点查漏补缺
-##   
+
+  
 # 4. 包管理
 **安装**：
 pip – Python 包和依赖关系管理工具。  
@@ -260,7 +261,7 @@ pytesseract – Google Tesseract OCR 的另一个封装(wrapper)。
 
 + **atexit**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTc0MTI0MzQsNzcxNjg2ODgwLDE0Mz
+eyJoaXN0b3J5IjpbLTE1ODU0MTQ1NjQsNzcxNjg2ODgwLDE0Mz
 ExOTE3NTksLTgwNTA1ODQ5MSwxMzc5MTAxNjg4LC05NDkxNDgz
 NDAsMjM5MDI2Njk1LDExNTg3MTM4NzAsMTY0MzAxMzQ4Miw4OT
 k3MTgyNjYsNzMwOTk4MTE2XX0=
