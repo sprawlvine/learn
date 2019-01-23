@@ -98,8 +98,8 @@
 +  **Flake8**
     静态检查工具
 
-
++ **atexit**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzMxMzYxMDEsODk5NzE4MjY2LDczMD
+eyJoaXN0b3J5IjpbLTEzMzEzNjA5NzEsODk5NzE4MjY2LDczMD
 k5ODExNl19
 -->
