@@ -55,7 +55,12 @@
 + **sh**
   sh is a full-fledged subprocess replacement
   
-## 容器、部署
+## python环境
+p
+pyenv
+vex
+virtualenvwrapper
+
 + **virtualenv**  
   创建独立 Python 环境的工具
 
@@ -140,6 +145,6 @@
 
 + **atexit**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MjYzODY4OTQsMTY0MzAxMzQ4Miw4OT
-k3MTgyNjYsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbMTE1NTgxODI3MiwxNjQzMDEzNDgyLDg5OT
+cxODI2Niw3MzA5OTgxMTZdfQ==
 -->
