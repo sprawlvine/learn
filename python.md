@@ -151,6 +151,13 @@ wheel – Python 分发的新标准，意在取代 eggs。
   
 + **scrapy** 
 ### 爬虫
+转自：
+作者：史豹  
+链接：https://www.zhihu.com/question/20501628/answer/223340838  
+来源：知乎  
+著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。  
+  
+
 Scrapy – 一个快速高级的屏幕爬取及网页采集框架。  
 cola – 一个分布式爬虫框架。  
 Demiurge – 基于PyQuery 的爬虫微型框架。  
@@ -261,7 +268,7 @@ pytesseract – Google Tesseract OCR 的另一个封装(wrapper)。
 
 + **atexit**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzI5NDc1Mzk1LDEzNzkxMDE2ODgsLTk0OT
-E0ODM0MCwyMzkwMjY2OTUsMTE1ODcxMzg3MCwxNjQzMDEzNDgy
-LDg5OTcxODI2Niw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbLTgwNTA1ODQ5MSwxMzc5MTAxNjg4LC05ND
+kxNDgzNDAsMjM5MDI2Njk1LDExNTg3MTM4NzAsMTY0MzAxMzQ4
+Miw4OTk3MTgyNjYsNzMwOTk4MTE2XX0=
 -->
