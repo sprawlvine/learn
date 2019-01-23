@@ -1,6 +1,10 @@
 # 参考
   **[vinta/awesome-python · GitHub](https://github.com/vinta/awesome-python)**
 
+# 开发环境
++ **ipython**
+
+
 ## python环境
 p
 pyenv
@@ -17,15 +21,10 @@ conda – 跨平台，Python 二进制包管理工具。
 Curdling – 管理 Python 包的命令行工具。  
 wheel – Python 分发的新标准，意在取代 eggs。
 
-# 基础工具模块
-+ **ipython**
-+ **pdb**
-+ **ipdb**
-+ **virtualenv**
-
 # python第三方库
 ## 调试、度量、日志
 +  **pdb**
++ **ipdb**
 +  **traceback**
 +  **logging**
 +  **cprofile**
@@ -151,6 +150,6 @@ wheel – Python 分发的新标准，意在取代 eggs。
 
 + **atexit**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4MjIxMTkxMSwxNjQzMDEzNDgyLDg5OT
-cxODI2Niw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbNDgwNjM3NjYyLDE2NDMwMTM0ODIsODk5Nz
+E4MjY2LDczMDk5ODExNl19
 -->
