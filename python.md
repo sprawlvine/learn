@@ -1,8 +1,23 @@
 # 参考
   **[vinta/awesome-python · GitHub](https://github.com/vinta/awesome-python)**
 
+## python环境
+p
+pyenv
+vex
+virtualenvwrapper
+
++ **virtualenv**  
+  创建独立 Python 环境的工具
+  
+##  包管理
+pip – Python 包和依赖关系管理工具。  
+pip-tools – 保证 Python 包依赖关系更新的一组工具。  
+conda – 跨平台，Python 二进制包管理工具。  
+Curdling – 管理 Python 包的命令行工具。  
+wheel – Python 分发的新标准，意在取代 eggs。
+
 # 基础工具模块
-+ **pip**
 + **ipython**
 + **pdb**
 + **ipdb**
@@ -55,15 +70,6 @@
 + **sh**
   sh is a full-fledged subprocess replacement
   
-## python环境
-p
-pyenv
-vex
-virtualenvwrapper
-
-+ **virtualenv**  
-  创建独立 Python 环境的工具
-
 ## web
 + **flask**  
 
@@ -145,6 +151,6 @@ virtualenvwrapper
 
 + **atexit**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1NTgxODI3MiwxNjQzMDEzNDgyLDg5OT
+eyJoaXN0b3J5IjpbLTU4MjIxMTkxMSwxNjQzMDEzNDgyLDg5OT
 cxODI2Niw3MzA5OTgxMTZdfQ==
 -->
