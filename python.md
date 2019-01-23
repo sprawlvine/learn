@@ -38,9 +38,13 @@
     
 +  **httpie**  
   一个命令行HTTP 客户端，cURL 的替代品，易用性更好
+  
 +  **you-get**  
   一个 YouTube/Youku/Niconico 视频下载器  
-+ 
+  
++  **youtube-dl**
+  用来下载 YouTube 视频的工具
+  
 + 
 + 
 + 
@@ -52,6 +56,6 @@
 + 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjc5OTQ4MTcsODk5NzE4MjY2LDczMD
+eyJoaXN0b3J5IjpbLTEwMjQyMzE3NzYsODk5NzE4MjY2LDczMD
 k5ODExNl19
 -->
