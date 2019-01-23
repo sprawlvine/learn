@@ -1,5 +1,6 @@
 # 参考
-  **[vinta/awesome-python · GitHub](https%3A//github.com/vinta/awesome-python)**
+  **[vinta/awesome-python · GitHub](https://github.com/vinta/awesome-python)**
+
 # 基础工具模块
 + **pip**
 + **ipython**
@@ -137,6 +138,6 @@
 
 + **atexit**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTM0OTc5MzUsODk5NzE4MjY2LDczMD
-k5ODExNl19
+eyJoaXN0b3J5IjpbMTY0MzAxMzQ4Miw4OTk3MTgyNjYsNzMwOT
+k4MTE2XX0=
 -->
