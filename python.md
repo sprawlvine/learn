@@ -22,7 +22,7 @@
 	```
     $ pip install Click 
 	```
- 6. **离开**<br>
+ 6. **离开虚拟环境**<br>
 	```
     $ deactivate
 	```
@@ -330,9 +330,9 @@ pytesseract – Google Tesseract OCR 的另一个封装(wrapper)。
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQ3NzYzMDEyLDQ2NjI4OTM0OSwxNzA1Nj
-Q2NDM1LC0xNTg1NDE0NTY0LDc3MTY4Njg4MCwxNDMxMTkxNzU5
-LC04MDUwNTg0OTEsMTM3OTEwMTY4OCwtOTQ5MTQ4MzQwLDIzOT
-AyNjY5NSwxMTU4NzEzODcwLDE2NDMwMTM0ODIsODk5NzE4MjY2
-LDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbLTIxMDkxNTY0MTksNDY2Mjg5MzQ5LDE3MD
+U2NDY0MzUsLTE1ODU0MTQ1NjQsNzcxNjg2ODgwLDE0MzExOTE3
+NTksLTgwNTA1ODQ5MSwxMzc5MTAxNjg4LC05NDkxNDgzNDAsMj
+M5MDI2Njk1LDExNTg3MTM4NzAsMTY0MzAxMzQ4Miw4OTk3MTgy
+NjYsNzMwOTk4MTE2XX0=
 -->
