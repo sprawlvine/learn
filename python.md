@@ -12,6 +12,8 @@
 +  **logging**
 +  **cprofile**
 +  **timeit**
++ **dis**  
+  反汇编
 
 ## 文本处理
 +  **re**
@@ -100,6 +102,6 @@
 
 + **atexit**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzEzNjA5NzEsODk5NzE4MjY2LDczMD
+eyJoaXN0b3J5IjpbLTEyODMxMTMwMzIsODk5NzE4MjY2LDczMD
 k5ODExNl19
 -->
