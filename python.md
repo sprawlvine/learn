@@ -12,7 +12,6 @@
 +  **logging**
 
 ## 文本处理
-+  **pprint**  
 +  **re**
 
 ## 命令行   
@@ -42,6 +41,9 @@
 
 +  **threading** 
 
++  **queue**
+ A thread-safe FIFO implementation
+ 
 ## 系统、shell交互
 +  **os**
 +  **subprocess**  
@@ -50,13 +52,12 @@
 + **virtualenv**  
   创建独立 Python 环境的工具
 
+##
 + **functools**
 +  **collections**  
+ 
++  **pprint**  
 
-  
-
-+  **queue**
- A thread-safe FIFO implementation
  
 +  **SimpleHTTPServer**  
 
@@ -94,6 +95,6 @@
 + 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjAxMzQ1OTksODk5NzE4MjY2LDczMD
+eyJoaXN0b3J5IjpbLTE0MDAxNDkyMTksODk5NzE4MjY2LDczMD
 k5ODExNl19
 -->
