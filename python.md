@@ -19,10 +19,12 @@ conda – 跨平台，Python 二进制包管理工具。
 Curdling – 管理 Python 包的命令行工具。  
 wheel – Python 分发的新标准，意在取代 eggs。
 
-# python第三方库
-## 参考
+# 4. 常用库
+## 4.1 参考
   **[vinta/awesome-python · GitHub](https://github.com/vinta/awesome-python)**
-  
+
+##  4.2 库说明
+
 ## 调试、度量、日志
 +  **pdb**
 + **ipdb**
@@ -151,6 +153,6 @@ wheel – Python 分发的新标准，意在取代 eggs。
 
 + **atexit**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjU5NjQyMDA5LDE2NDMwMTM0ODIsODk5Nz
-E4MjY2LDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbMjExNDI3NDczMSwxNjQzMDEzNDgyLDg5OT
+cxODI2Niw3MzA5OTgxMTZdfQ==
 -->
