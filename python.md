@@ -156,7 +156,8 @@ pynsist – 一个用来创建 Windows 安装程序的工具，可以在安装�
 
 ### 数据库
 + **mangodb**
-
++ **pymysql**
++ 
 ### 图像处理
 + **PIL**  
 
@@ -172,7 +173,12 @@ pynsist – 一个用来创建 Windows 安装程序的工具，可以在安装�
 
 ### 机器学习
 + **scikit-learn**   
-+ 
++  **xgboost**  
++  **nltk**  
++  **jieba**  
++   **gensim**
+
+### 深度xuexi
 ### 其它
 + **functools**
  
@@ -184,6 +190,6 @@ pynsist – 一个用来创建 Windows 安装程序的工具，可以在安装�
 
 + **atexit**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0Njg5NjUzMSwxMTU4NzEzODcwLDE2ND
+eyJoaXN0b3J5IjpbMjAyMDEwMTcwNSwxMTU4NzEzODcwLDE2ND
 MwMTM0ODIsODk5NzE4MjY2LDczMDk5ODExNl19
 -->
