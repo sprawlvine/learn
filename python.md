@@ -15,7 +15,8 @@ virtualenvwrapper
 # 3. 包管理
 **安装**：
 pip – Python 包和依赖关系管理工具。  
-wheel – Python 分发的新标准，意在取代 eggs。
+
+
 
 **仓库管理**：
  PyPI
@@ -184,7 +185,7 @@ pynsist – 一个用来创建 Windows 安装程序的工具，可以在安装�
 
 + **atexit**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0OTE0ODM0MCwyMzkwMjY2OTUsMTE1OD
-cxMzg3MCwxNjQzMDEzNDgyLDg5OTcxODI2Niw3MzA5OTgxMTZd
-fQ==
+eyJoaXN0b3J5IjpbMTMzMjgwMjU5MiwtOTQ5MTQ4MzQwLDIzOT
+AyNjY5NSwxMTU4NzEzODcwLDE2NDMwMTM0ODIsODk5NzE4MjY2
+LDczMDk5ODExNl19
 -->
