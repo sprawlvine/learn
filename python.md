@@ -23,11 +23,13 @@
   Use Unix shell rules to fine filenames matching a pattern.
   
 +  **os**
-+ 
++  **queue**
+ A thread-safe FIFO implementation
+ 
 + 
 + 
 + 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwMzUwNTI3OSw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbNTU3NDg3Mjc5LDczMDk5ODExNl19
 -->
