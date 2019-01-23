@@ -3,7 +3,7 @@
 
 # 开发环境
 + **ipython**
-
+[ipython入门](https://github.com/sprawlvine/learn/blob/master/IPython.md)
 
 ## python环境
 p
@@ -150,6 +150,6 @@ wheel – Python 分发的新标准，意在取代 eggs。
 
 + **atexit**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDgwNjM3NjYyLDE2NDMwMTM0ODIsODk5Nz
-E4MjY2LDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbMTE0MDc0Nzc2OSwxNjQzMDEzNDgyLDg5OT
+cxODI2Niw3MzA5OTgxMTZdfQ==
 -->
