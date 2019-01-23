@@ -184,7 +184,7 @@ pynsist – 一个用来创建 Windows 安装程序的工具，可以在安装�
  - **keras**
  - **tensorflow**
  - **tflearn**
- - **List item**
+ - **tensorlayer**
 
 ### 其它
 + **functools**
@@ -197,6 +197,6 @@ pynsist – 一个用来创建 Windows 安装程序的工具，可以在安装�
 
 + **atexit**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjkyMTI3ODYsMTE1ODcxMzg3MCwxNj
+eyJoaXN0b3J5IjpbLTE3ODIzODU5OTksMTE1ODcxMzg3MCwxNj
 QzMDEzNDgyLDg5OTcxODI2Niw3MzA5OTgxMTZdfQ==
 -->
