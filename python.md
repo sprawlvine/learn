@@ -176,9 +176,11 @@ wheel – Python 分发的新标准，意在取代 eggs。
 ### 数据库
 + **mangodb**
 + **pymysql**
-+ 
-cassandra-python-driver – Cassandra 的 Python 驱动。  
-HappyBase – 一个为 Apache HBase 设计的，对开发者友好的库。
++ **cassandra-python-driver**  
+ Cassandra 的 Python 驱动。  
+ 
+ + **HappyBase**  
+一个为 Apache HBase 设计的，对开发者友好的库。
 
 ### 图像处理
 + **PIL**  
@@ -231,7 +233,7 @@ pytesseract – Google Tesseract OCR 的另一个封装(wrapper)。
 
 + **atexit**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTk3MjA4NzQsLTk0OTE0ODM0MCwyMz
+eyJoaXN0b3J5IjpbLTIwMzI2MDQ4MjcsLTk0OTE0ODM0MCwyMz
 kwMjY2OTUsMTE1ODcxMzg3MCwxNjQzMDEzNDgyLDg5OTcxODI2
 Niw3MzA5OTgxMTZdfQ==
 -->
