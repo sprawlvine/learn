@@ -81,7 +81,9 @@
 +  **collections** 
 +  **queue**
  A thread-safe FIFO implementation
-   
+
+## 算法
++ **hashlib md5, sha**   
 +  
 +  **其它**
 + **functools**
@@ -94,6 +96,6 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5NTI0NzIwOSw4OTk3MTgyNjYsNzMwOT
+eyJoaXN0b3J5IjpbLTUxMzY1NzQxMSw4OTk3MTgyNjYsNzMwOT
 k4MTE2XX0=
 -->
