@@ -52,10 +52,18 @@ wheel – Python 分发的新标准，意在取代 eggs。
 +  **re**
 +  **fuzzywuzzy**
   模糊字符串匹配
-+ **phonenumbers**    
+  
++ **phonenumbers**   
++  
 +  **PLY**
   lex 和 yacc 解析工具的 Python 实现
-+ 
+  
++ **openpyxl**
+  读写 Excel 2010 xlsx/xlsm/xltx/xltm 文件
+  
++ **python-docx**  
+  读取，查询以及修改 Microsoft Word 2007/2008 docx 文件
+
 
 ### 命令行   
 + **click**  
@@ -197,7 +205,7 @@ wheel – Python 分发的新标准，意在取代 eggs。
 
 + **atexit**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQwMzUzMzkzLC05NDkxNDgzNDAsMjM5MD
-I2Njk1LDExNTg3MTM4NzAsMTY0MzAxMzQ4Miw4OTk3MTgyNjYs
-NzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbLTE0MDYxMTExMjQsLTk0OTE0ODM0MCwyMz
+kwMjY2OTUsMTE1ODcxMzg3MCwxNjQzMDEzNDgyLDg5OTcxODI2
+Niw3MzA5OTgxMTZdfQ==
 -->
