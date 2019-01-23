@@ -57,7 +57,8 @@ wheel – Python 分发的新标准，意在取代 eggs。
 +  
 +  **PLY**
   lex 和 yacc 解析工具的 Python 实现
-  
+
+#### office 文件操作  
 + **openpyxl**
   读写 Excel 2010 xlsx/xlsm/xltx/xltm 文件
 + **XlsxWriter**  
@@ -66,6 +67,8 @@ wheel – Python 分发的新标准，意在取代 eggs。
 + **python-docx**  
   读取，查询以及修改 Microsoft Word 2007/2008 docx 文件
 
++ **CSV**  
+  csvkit – 用于转换和操作 CSV 的工具。
 
 ### 命令行   
 + **click**  
@@ -207,7 +210,7 @@ wheel – Python 分发的新标准，意在取代 eggs。
 
 + **atexit**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2MDA2MDQ2LC05NDkxNDgzNDAsMjM5MD
-I2Njk1LDExNTg3MTM4NzAsMTY0MzAxMzQ4Miw4OTk3MTgyNjYs
-NzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbLTczNTU4MDQ3MSwtOTQ5MTQ4MzQwLDIzOT
+AyNjY5NSwxMTU4NzEzODcwLDE2NDMwMTM0ODIsODk5NzE4MjY2
+LDczMDk5ODExNl19
 -->
