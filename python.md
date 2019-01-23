@@ -6,10 +6,11 @@
 + **virtualenv**
 
 # python第三方库
-## 调试日志
+## 调试、度量、日志
 +  **pdb**
 +  **traceback**
 +  **logging**
++  **cprofile**
 
 ## 文本处理
 +  **re**
@@ -41,9 +42,7 @@
 
 +  **threading** 
 
-+  **queue**
- A thread-safe FIFO implementation
- 
+
 ## 系统、shell交互
 +  **os**
 +  **subprocess**  
@@ -77,11 +76,16 @@
 ## 序列化、反序列化
 +  **pickle/cPickle**
   The [`pickle`](https://docs.python.org/3/library/pickle.html#module-pickle "pickle: Convert Python objects to streams of bytes and back.") module implements binary protocols for serializing and de-serializing a Python object structure
-  
-+ 
+
+## 数据结构
++  **collections** 
++  **queue**
+ A thread-safe FIFO implementation
+   
++  
 +  **其它**
 + **functools**
-+  **collections**  
+ 
  
 +  **pprint**  
 
@@ -90,6 +94,6 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDE1ODc3NTg0LDg5OTcxODI2Niw3MzA5OT
-gxMTZdfQ==
+eyJoaXN0b3J5IjpbMTA5NTI0NzIwOSw4OTk3MTgyNjYsNzMwOT
+k4MTE2XX0=
 -->
