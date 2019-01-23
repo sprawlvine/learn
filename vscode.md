@@ -20,7 +20,10 @@
 
     安装editorconfig插件
     
-# 3. 使用    
+# 3. 使用  
+- **virtualenv如何配置？**
+-  **setuptools？**
+-  
 - **workspace理解**
 	```
     workspace包含了一组目录和文件，类似工程的概念
@@ -37,7 +40,7 @@
     ctrl + /
 	```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1OTA2MDE0MCwtMTE5OTkyNjc2NCwxMD
+eyJoaXN0b3J5IjpbLTEyMzk3MDI3NSwtMTE5OTkyNjc2NCwxMD
 Y2MjkxNzIsLTE3MjMzMTc1MzIsMjY3MDU4MDAzLDYxMjM0MzUz
 MSwtNTk4ODc1MDMyLDczMDk5ODExNl19
 -->
