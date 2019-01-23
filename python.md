@@ -3,6 +3,7 @@
 + **pip**
 + **ipython**
 + **pdb**
++ **ipdb**
 + **virtualenv**
 
 # python第三方库
@@ -116,6 +117,6 @@
 
 + **atexit**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4NzE5NDU2Niw4OTk3MTgyNjYsNzMwOT
+eyJoaXN0b3J5IjpbLTM1OTk2NTI1NCw4OTk3MTgyNjYsNzMwOT
 k4MTE2XX0=
 -->
