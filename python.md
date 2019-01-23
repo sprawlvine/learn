@@ -149,16 +149,19 @@ wheel – Python 分发的新标准，意在取代 eggs。
  + **xmltodict**   
   xml转dict
   
- + **scrapy** 
++ **scrapy** 
 ### 爬虫
 
- + **Scrapy** 
-– 个快速高级的屏幕爬取及网页采集框架。  
-cola – 一个分布式爬虫框架。  
-Demiurge – 基于PyQuery 的爬虫微型框架。  
-feedparser – 通用 feed 解析器。  
-Grab – 站点爬取框架。  
-MechanicalSoup – 用于自动和网络站点交互的 Python 库。  
++ **Scrapy** 
+  快速高级的屏幕爬取及网页采集框架。  
+
++ **cola** 
+ 一个分布式爬虫框架。  
++ **Demiurge** 
+  基于PyQuery 的爬虫微型框架。  
++ **MechanicalSoup** 
+  自动和网络站点交互的 Python 库。
+    
 portia – Scrapy 可视化爬取。  
 pyspider – 一个强大的爬虫系统。  
 RoboBrowser – 一个简单的，Python 风格的库，用来浏览网站，而不需要一个独立安装的浏览器。  
@@ -267,7 +270,7 @@ pytesseract – Google Tesseract OCR 的另一个封装(wrapper)。
 
 + **atexit**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODk1ODEyNjMsLTgwNTA1ODQ5MSwxMz
+eyJoaXN0b3J5IjpbLTEzMjQ4NjM3MjYsLTgwNTA1ODQ5MSwxMz
 c5MTAxNjg4LC05NDkxNDgzNDAsMjM5MDI2Njk1LDExNTg3MTM4
 NzAsMTY0MzAxMzQ4Miw4OTk3MTgyNjYsNzMwOTk4MTE2XX0=
 -->
