@@ -18,9 +18,11 @@
 ## 2.1 tab缩进4个空格的设置
 
     安装editorconfig插件
+    
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MjMzMTc1MzIsMjY3MDU4MDAzLDYxMj
-M0MzUzMSwtNTk4ODc1MDMyLDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbNTU1OTQ0NDY2LC0xNzIzMzE3NTMyLDI2Nz
+A1ODAwMyw2MTIzNDM1MzEsLTU5ODg3NTAzMiw3MzA5OTgxMTZd
+fQ==
 -->
