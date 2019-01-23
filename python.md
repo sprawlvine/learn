@@ -4,9 +4,9 @@
 [ipython入门](https://github.com/sprawlvine/learn/blob/master/IPython.md)
 
 # 2. python环境管理
- ## 2.1 **virtualenv**  
+## 2.1 virtualenv 
   创建独立 Python 环境的工具
- 2. 安装
+ 1. 安装
 
 $ sudo pip install virtualenv
 
@@ -325,7 +325,7 @@ pytesseract – Google Tesseract OCR 的另一个封装(wrapper)。
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3NjE3OTA5Niw0NjYyODkzNDksMTcwNT
+eyJoaXN0b3J5IjpbLTYxNDQ5NjIzOSw0NjYyODkzNDksMTcwNT
 Y0NjQzNSwtMTU4NTQxNDU2NCw3NzE2ODY4ODAsMTQzMTE5MTc1
 OSwtODA1MDU4NDkxLDEzNzkxMDE2ODgsLTk0OTE0ODM0MCwyMz
 kwMjY2OTUsMTE1ODcxMzg3MCwxNjQzMDEzNDgyLDg5OTcxODI2
