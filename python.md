@@ -43,18 +43,20 @@
 +  **threading** 
 
 ## 系统、shell交互
++  **os**
++  **subprocess**  
 
-
+## bus
 + **functools**
 +  **collections**  
 
   
-+  **os**
+
 +  **queue**
  A thread-safe FIFO implementation
  
 +  **SimpleHTTPServer**  
-+  **subprocess**  
+
  
 + **virtualenv**  
   创建独立 Python 环境的工具
@@ -90,6 +92,6 @@
 + 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODkzNDY1NDUsODk5NzE4MjY2LDczMD
-k5ODExNl19
+eyJoaXN0b3J5IjpbNzIyMDI3NTAzLDg5OTcxODI2Niw3MzA5OT
+gxMTZdfQ==
 -->
