@@ -182,6 +182,10 @@ wheel – Python 分发的新标准，意在取代 eggs。
 + **nude**
   裸体检测
   
++ **pyBarcode**  
+  条形码
+  
++ 
 ### 科学计算
 + **numpy**
 +  **scipy**
@@ -218,7 +222,7 @@ wheel – Python 分发的新标准，意在取代 eggs。
 
 + **atexit**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMjE3NDQyMiwtOTQ5MTQ4MzQwLDIzOT
-AyNjY5NSwxMTU4NzEzODcwLDE2NDMwMTM0ODIsODk5NzE4MjY2
-LDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbMjA0MjI2ODksLTk0OTE0ODM0MCwyMzkwMj
+Y2OTUsMTE1ODcxMzg3MCwxNjQzMDEzNDgyLDg5OTcxODI2Niw3
+MzA5OTgxMTZdfQ==
 -->
