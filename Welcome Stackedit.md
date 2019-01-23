@@ -103,7 +103,7 @@ SmartyPants converts ASCII punctuation characters into "smart" typographic punct
 |Single backticks|`'Isn't this fun?'`            |'Isn't this fun?'            |
 |Quotes          |`"Isn't this fun?"`            |"Isn't this fun?"            |
 |Dashes          |`-- is en-dash, --- is em-dash`|-- is en-dash, --- is em-dash|
-
+$a
 
 ## KaTeX
 
@@ -147,6 +147,7 @@ C --> D
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzY3MDY4NDUsLTExMzY3MDY4NDUsLT
-cxMzQ3NDY4MSwtNzEzNDc0NjgxLC0xNzQzNDY0NDY5XX0=
+eyJoaXN0b3J5IjpbLTUyOTQyMjg0MiwtMTEzNjcwNjg0NSwtMT
+EzNjcwNjg0NSwtNzEzNDc0NjgxLC03MTM0NzQ2ODEsLTE3NDM0
+NjQ0NjldfQ==
 -->
