@@ -112,7 +112,10 @@
 ## 数据库
 + **mangodb**
 
-+  **其它**
+## 图像处理
++ **PIL**  
++ 
+## 其它
 + **functools**
  
  
@@ -123,6 +126,6 @@
 
 + **atexit**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzMyODQyNjUsODk5NzE4MjY2LDczMD
+eyJoaXN0b3J5IjpbLTEwMzY3ODQzOTAsODk5NzE4MjY2LDczMD
 k5ODExNl19
 -->
