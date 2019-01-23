@@ -82,7 +82,8 @@
 
 + **xmltodict**   
   xml转dict
-+ 
+  
++ **scrapy** 
 
 ## 迭代器    
 +  **itertools**
@@ -114,6 +115,13 @@
 
 ## 图像处理
 + **PIL**  
+
+## 科学计算
++ **numpy**
++  **scipy**
+
+## 图形
++ **matlotlib**
 + 
 ## 其它
 + **functools**
@@ -126,6 +134,6 @@
 
 + **atexit**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzY3ODQzOTAsODk5NzE4MjY2LDczMD
+eyJoaXN0b3J5IjpbLTE0NTI5MjAwNjksODk5NzE4MjY2LDczMD
 k5ODExNl19
 -->
