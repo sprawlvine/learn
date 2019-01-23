@@ -16,8 +16,6 @@ virtualenvwrapper
 **安装**：
 pip – Python 包和依赖关系管理工具。  
 
-
-
 **仓库管理**：
  PyPI
 warehouse – 下一代 PyPI。  
@@ -30,6 +28,8 @@ py2app – 将 Python 脚本变为独立软件包（Mac OS X）。
 py2exe – 将 Python 脚本变为独立软件包（Windows）。  
 pynsist – 一个用来创建 Windows 安装程序的工具，可以在安装程序中打包 Python本身。
 
+**分发**：
+wheel – Python 分发的新标准，意在取代 eggs。
   
   
 # 4. 常用库
@@ -185,7 +185,7 @@ pynsist – 一个用来创建 Windows 安装程序的工具，可以在安装�
 
 + **atexit**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzMjgwMjU5MiwtOTQ5MTQ4MzQwLDIzOT
-AyNjY5NSwxMTU4NzEzODcwLDE2NDMwMTM0ODIsODk5NzE4MjY2
-LDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbLTE3ODQ4Mzg0MDcsLTk0OTE0ODM0MCwyMz
+kwMjY2OTUsMTE1ODcxMzg3MCwxNjQzMDEzNDgyLDg5OTcxODI2
+Niw3MzA5OTgxMTZdfQ==
 -->
