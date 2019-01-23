@@ -14,9 +14,7 @@ virtualenvwrapper
   
 # 3. 包管理
 pip – Python 包和依赖关系管理工具。  
-pip-tools – 保证 Python 包依赖关系更新的一组工具。  
-conda – 跨平台，Python 二进制包管理工具。  
-Curdling – 管理 Python 包的命令行工具。  
+  
 wheel – Python 分发的新标准，意在取代 eggs。
 
 **本地 PyPI 仓库服务和代理**
@@ -197,6 +195,6 @@ pynsist – 一个用来创建 Windows 安装程序的工具，可以在安装�
 
 + **atexit**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODIzODU5OTksMTE1ODcxMzg3MCwxNj
-QzMDEzNDgyLDg5OTcxODI2Niw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbMjM5MDI2Njk1LDExNTg3MTM4NzAsMTY0Mz
+AxMzQ4Miw4OTk3MTgyNjYsNzMwOTk4MTE2XX0=
 -->
