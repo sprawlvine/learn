@@ -13,7 +13,7 @@ virtualenvwrapper
   创建独立 Python 环境的工具
 
 # 3. 知识点滴
-## list
+## 3.1 list
 
  - count <br> 
 	```
@@ -24,7 +24,7 @@ virtualenvwrapper
     Out[24]: 1
 	```
 	
- - extend
+ - extend <br> 
 	```   
     In [17]: a
     Out[17]: [2, 1]
@@ -288,7 +288,7 @@ pytesseract – Google Tesseract OCR 的另一个封装(wrapper)。
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzc1NzIzODcwLC0xNTg1NDE0NTY0LDc3MT
+eyJoaXN0b3J5IjpbNjcyMzQ5NDk4LC0xNTg1NDE0NTY0LDc3MT
 Y4Njg4MCwxNDMxMTkxNzU5LC04MDUwNTg0OTEsMTM3OTEwMTY4
 OCwtOTQ5MTQ4MzQwLDIzOTAyNjY5NSwxMTU4NzEzODcwLDE2ND
 MwMTM0ODIsODk5NzE4MjY2LDczMDk5ODExNl19
