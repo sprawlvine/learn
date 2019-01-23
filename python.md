@@ -45,7 +45,8 @@
 +  **youtube-dl**
   用来下载 YouTube 视频的工具
   
-+ 
++  **Flake8**
+    静态检查工具
 + 
 + 
 + 
@@ -56,6 +57,6 @@
 + 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMjQyMzE3NzYsODk5NzE4MjY2LDczMD
-k5ODExNl19
+eyJoaXN0b3J5IjpbMTM5Mjc3OTUzMiw4OTk3MTgyNjYsNzMwOT
+k4MTE2XX0=
 -->
