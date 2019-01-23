@@ -25,7 +25,7 @@ wheel – Python 分发的新标准，意在取代 eggs。
 
 ##  4.2 库说明
 
-## 调试、度量、日志
+### 调试、度量、日志
 +  **pdb**
 + **ipdb**
 +  **traceback**
@@ -35,28 +35,28 @@ wheel – Python 分发的新标准，意在取代 eggs。
 + **dis**  
   反汇编
 
-## 文本处理
+### 文本处理
 +  **re**
 
-## 命令行   
+### 命令行   
 + **click**  
 
-## 文件目录处理
+### 文件目录处理
 + **shutil**     
   shutil - Utility functions for copying and archiving files and directory trees  
  
  +  **glob**  
   Use Unix shell rules to fine filenames matching a pattern.
 
-## 事件调度处理   
+### 事件调度处理   
 + **sched**  
   The [sched](https://pymotw.com/2/sched/index.html#module-sched "sched: Generic event scheduler.") module implements a generic event scheduler for running tasks at specific times  
 
-## 上下文  
+### 上下文  
 + **contextlib**    
   contextlib - Utilities for with-statement contexts  
 
-## 线程、进程  
+### 线程、进程  
 + **multiprocessing**   
   This package is intended to duplicate the functionality (and much of
   the API) of threading.py but uses processes instead of threads.  A
@@ -66,13 +66,13 @@ wheel – Python 分发的新标准，意在取代 eggs。
 +  **threading** 
 
 
-## 系统、shell交互
+### 系统、shell交互
 + **os**
 + **subprocess**  
 + **sh**
   sh is a full-fledged subprocess replacement
   
-## web
+### web
 + **flask**  
 
 + **django**
@@ -104,45 +104,45 @@ wheel – Python 分发的新标准，意在取代 eggs。
   
 + **scrapy** 
 
-## 迭代器    
+### 迭代器    
 +  **itertools**
   迭代器
 
-## 序列化、反序列化
+### 序列化、反序列化
 +  **pickle/cPickle**
   The [`pickle`](https://docs.python.org/3/library/pickle.html#module-pickle "pickle: Convert Python objects to streams of bytes and back.") module implements binary protocols for serializing and de-serializing a Python object structure
 
-## 数据结构
+### 数据结构
 +  **collections** 
 +  **queue**
  A thread-safe FIFO implementation
 
-## 算法
+### 算法
 + **hashlib md5, sha**   
 
-## json
+### json
 + **json/simplejson**  
 
-## ssh
+### ssh
 + **paramiko**
 
-## 缓存
+### 缓存
 + **redis**
 
-## 数据库
+### 数据库
 + **mangodb**
 
-## 图像处理
+### 图像处理
 + **PIL**  
 
-## 科学计算
+### 科学计算
 + **numpy**
 +  **scipy**
 
-## 图形
+### 图形
 + **matlotlib**
 + 
-## 其它
+### 其它
 + **functools**
  
  
@@ -153,6 +153,6 @@ wheel – Python 分发的新标准，意在取代 eggs。
 
 + **atexit**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExNDI3NDczMSwxNjQzMDEzNDgyLDg5OT
+eyJoaXN0b3J5IjpbMTE1ODcxMzg3MCwxNjQzMDEzNDgyLDg5OT
 cxODI2Niw3MzA5OTgxMTZdfQ==
 -->
