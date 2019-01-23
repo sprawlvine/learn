@@ -1,23 +1,24 @@
 
-# .基础工具模块
+# 基础工具模块
 + **pip**
 + **ipython**
 + **pdb**
 + **virtualenv**
 
-# .python第三方库
-## .调试日志
+# python第三方库
+## 调试日志
 +  **pdb**
 +  **traceback**
 +  **logging**
 
-## .文本处理
+## 文本处理
 +  **pprint**  
 +  **re**
 
-## .命令行   
+## 命令行   
 + **click**  
 
+## 文件目录处理
 + **shutil**     
   shutil - Utility functions for copying and archiving files and directory trees  
   
@@ -82,6 +83,6 @@
 + 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDA3NjY1NjIsODk5NzE4MjY2LDczMD
+eyJoaXN0b3J5IjpbLTIwMDYxMjcwNzYsODk5NzE4MjY2LDczMD
 k5ODExNl19
 -->
