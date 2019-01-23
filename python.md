@@ -60,7 +60,8 @@ wheel – Python 分发的新标准，意在取代 eggs。
   
 + **openpyxl**
   读写 Excel 2010 xlsx/xlsm/xltx/xltm 文件
-  
++ **XlsxWriter**  
+
 + **python-docx**  
   读取，查询以及修改 Microsoft Word 2007/2008 docx 文件
 
@@ -205,7 +206,7 @@ wheel – Python 分发的新标准，意在取代 eggs。
 
 + **atexit**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDYxMTExMjQsLTk0OTE0ODM0MCwyMz
-kwMjY2OTUsMTE1ODcxMzg3MCwxNjQzMDEzNDgyLDg5OTcxODI2
-Niw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbMTc3Nzc3Mzk3NywtOTQ5MTQ4MzQwLDIzOT
+AyNjY5NSwxMTU4NzEzODcwLDE2NDMwMTM0ODIsODk5NzE4MjY2
+LDczMDk5ODExNl19
 -->
