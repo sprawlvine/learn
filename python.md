@@ -21,7 +21,8 @@ virtualenvwrapper
     
     In [9]: ss.pop()
     Out[9]: '01'
-	
+	```
+		
  - **count** <br> 
 	```
     In [20]: a
@@ -295,7 +296,7 @@ pytesseract – Google Tesseract OCR 的另一个封装(wrapper)。
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3MTc1MDA4MiwtMTU4NTQxNDU2NCw3Nz
+eyJoaXN0b3J5IjpbMTA0MzYxMTIzMCwtMTU4NTQxNDU2NCw3Nz
 E2ODY4ODAsMTQzMTE5MTc1OSwtODA1MDU4NDkxLDEzNzkxMDE2
 ODgsLTk0OTE0ODM0MCwyMzkwMjY2OTUsMTE1ODcxMzg3MCwxNj
 QzMDEzNDgyLDg5OTcxODI2Niw3MzA5OTgxMTZdfQ==
