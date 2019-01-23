@@ -70,6 +70,9 @@ wheel – Python 分发的新标准，意在取代 eggs。
 + **CSV**  
   csvkit – 用于转换和操作 CSV 的工具。
 
++ **Jinja2** 
+  一个现代的，对设计师友好的模板引擎。
+  
 ### 命令行   
 + **click**  
 + 
@@ -233,7 +236,7 @@ pytesseract – Google Tesseract OCR 的另一个封装(wrapper)。
 
 + **atexit**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzI2MDQ4MjcsLTk0OTE0ODM0MCwyMz
-kwMjY2OTUsMTE1ODcxMzg3MCwxNjQzMDEzNDgyLDg5OTcxODI2
-Niw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbMTM3OTEwMTY4OCwtOTQ5MTQ4MzQwLDIzOT
+AyNjY5NSwxMTU4NzEzODcwLDE2NDMwMTM0ODIsODk5NzE4MjY2
+LDczMDk5ODExNl19
 -->
