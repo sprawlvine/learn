@@ -188,8 +188,9 @@ wheel – Python 分发的新标准，意在取代 eggs。
 + **python-qrcode**
   二维码生成器
 
-+ **wand**
-  OCR
++ **OCR**
+pyocr – Tesseract 和 Cuneiform 的一个封装(wrapper)。  
+pytesseract – Google Tesseract OCR 的另一个封装(wrapper)。
   
 ### 科学计算
 + **numpy**
@@ -227,7 +228,7 @@ wheel – Python 分发的新标准，意在取代 eggs。
 
 + **atexit**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODI0ODM5NzcsLTk0OTE0ODM0MCwyMz
-kwMjY2OTUsMTE1ODcxMzg3MCwxNjQzMDEzNDgyLDg5OTcxODI2
-Niw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbMjA0NTM1MjExMCwtOTQ5MTQ4MzQwLDIzOT
+AyNjY5NSwxMTU4NzEzODcwLDE2NDMwMTM0ODIsODk5NzE4MjY2
+LDczMDk5ODExNl19
 -->
