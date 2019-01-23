@@ -47,7 +47,8 @@
 +  **subprocess**  
 
 ## 容器、部署
-
++ **virtualenv**  
+  创建独立 Python 环境的工具
 
 + **functools**
 +  **collections**  
@@ -60,8 +61,7 @@
 +  **SimpleHTTPServer**  
 
  
-+ **virtualenv**  
-  创建独立 Python 环境的工具
+
 
 + **urllib/urllib2/httplib**  
   偏底层
@@ -94,6 +94,6 @@
 + 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0Mzg2NTgzOSw4OTk3MTgyNjYsNzMwOT
-k4MTE2XX0=
+eyJoaXN0b3J5IjpbLTIwMjAxMzQ1OTksODk5NzE4MjY2LDczMD
+k5ODExNl19
 -->
