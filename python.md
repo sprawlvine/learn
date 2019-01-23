@@ -70,18 +70,6 @@
 +  **youtube-dl**
   用来下载 YouTube 视频的工具
         
-+ **functools**
-+  **collections**  
- 
-+  **pprint**  
-    
-
-  
-
-  
-+  **Flake8**
-    静态检查工具
-
 ## 迭代器    
 +  **itertools**
   迭代器
@@ -91,9 +79,17 @@
   The [`pickle`](https://docs.python.org/3/library/pickle.html#module-pickle "pickle: Convert Python objects to streams of bytes and back.") module implements binary protocols for serializing and de-serializing a Python object structure
   
 + 
-+ 
++  **其它**
++ **functools**
++  **collections**  
+ 
++  **pprint**  
+
++  **Flake8**
+    静态检查工具
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3OTE4MDY5Myw4OTk3MTgyNjYsNzMwOT
-k4MTE2XX0=
+eyJoaXN0b3J5IjpbNDE1ODc3NTg0LDg5OTcxODI2Niw3MzA5OT
+gxMTZdfQ==
 -->
