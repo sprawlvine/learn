@@ -198,6 +198,9 @@ textract – 从任何格式的文档中提取文本，Word，PowerPoint，PDFs 
 
 ### 算法
 + **hashlib md5, sha**   
++ algorithms 
+  一个 Python 算法模块  
++ python-patterns Python 设计模式的集合。
 
 ### json
 + **json/simplejson**  
@@ -268,7 +271,7 @@ pytesseract – Google Tesseract OCR 的另一个封装(wrapper)。
 
 + **atexit**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwNTA1ODQ5MSwxMzc5MTAxNjg4LC05ND
-kxNDgzNDAsMjM5MDI2Njk1LDExNTg3MTM4NzAsMTY0MzAxMzQ4
-Miw4OTk3MTgyNjYsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbMTgwNDE0OTcyMiwtODA1MDU4NDkxLDEzNz
+kxMDE2ODgsLTk0OTE0ODM0MCwyMzkwMjY2OTUsMTE1ODcxMzg3
+MCwxNjQzMDEzNDgyLDg5OTcxODI2Niw3MzA5OTgxMTZdfQ==
 -->
