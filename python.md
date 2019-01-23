@@ -52,6 +52,8 @@
     静态检查工具
     
 +  **itertools**
+  迭代器
+  
 +  **re**
 +  **pdb**
 +  **traceback**
@@ -62,6 +64,6 @@
 + 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODY5MTA3MjAxLDg5OTcxODI2Niw3MzA5OT
-gxMTZdfQ==
+eyJoaXN0b3J5IjpbLTE3OTAzMjQ3Nyw4OTk3MTgyNjYsNzMwOT
+k4MTE2XX0=
 -->
