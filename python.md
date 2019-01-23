@@ -62,6 +62,9 @@ wheel – Python 分发的新标准，意在取代 eggs。
 
 + **imghdr**  
   检测图片类型
+
++ **watchdog**
+  管理文件系统事件的 API 和 shell 工具
  
 ### 事件调度处理   
 + **sched**  
@@ -187,7 +190,7 @@ wheel – Python 分发的新标准，意在取代 eggs。
 
 + **atexit**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0NjA3NDMzOCwtOTQ5MTQ4MzQwLDIzOT
-AyNjY5NSwxMTU4NzEzODcwLDE2NDMwMTM0ODIsODk5NzE4MjY2
-LDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbLTIxMjgyNzUxMTksLTk0OTE0ODM0MCwyMz
+kwMjY2OTUsMTE1ODcxMzg3MCwxNjQzMDEzNDgyLDg5OTcxODI2
+Niw3MzA5OTgxMTZdfQ==
 -->
