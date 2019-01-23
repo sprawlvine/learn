@@ -12,8 +12,24 @@ virtualenvwrapper
 + **virtualenv**  
   创建独立 Python 环境的工具
 
-# 3. 知识点查漏补缺
+# 3. 知识点滴
+## list
 
+ - count
+ - extend
+	```
+    In [17]: a
+    Out[17]: [2, 1]
+    
+    In [18]: a.extend?
+    Docstring: L.extend(iterable) -- extend list by appending elements from the iterable
+    Type:      builtin_function_or_method
+    
+    In [19]: a.extend([4,5,6])
+    
+    In [20]: a
+    Out[20]: [2, 1, 4, 5, 6]
+	```
   
 # 4. 包管理
 **安装**：
@@ -264,7 +280,7 @@ pytesseract – Google Tesseract OCR 的另一个封装(wrapper)。
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2NDE2NjU5OCwtMTU4NTQxNDU2NCw3Nz
+eyJoaXN0b3J5IjpbLTQ4MjkwOTQ5OCwtMTU4NTQxNDU2NCw3Nz
 E2ODY4ODAsMTQzMTE5MTc1OSwtODA1MDU4NDkxLDEzNzkxMDE2
 ODgsLTk0OTE0ODM0MCwyMzkwMjY2OTUsMTE1ODcxMzg3MCwxNj
 QzMDEzNDgyLDg5OTcxODI2Niw3MzA5OTgxMTZdfQ==
