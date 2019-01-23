@@ -114,51 +114,46 @@ wheel – Python 分发的新标准，意在取代 eggs。
 
 
 ### 系统、shell交互
-+ **os**
-+ **subprocess**  
-+ **sh**
+ + **os**
+ + **subprocess**  
+ + **sh**
   sh is a full-fledged subprocess replacement
   
 ### web
-+ **flask**  
+ + **flask**  
 
-+ **django**
+ + **django**
 
-+  **SimpleHTTPServer** 
+ +  **SimpleHTTPServer** 
  
-+ **urllib/urllib2/httplib**  
+ + **urllib/urllib2/httplib**  
   偏底层
   
-+  **requests**
+ +  **requests**
   人性化的HTTP请求库
 
-+ **lxml**
+ + **lxml**
 
-+  **httpie**  
+ +  **httpie**  
   一个命令行HTTP 客户端，cURL 的替代品，易用性更好
 
-+  **you-get**  
+ +  **you-get**  
   一个 YouTube/Youku/Niconico 视频下载器  
   
-+  **youtube-dl**
+ +  **youtube-dl**
   用来下载 YouTube 视频的工具
 
-+ **pycurl**
+ + **pycurl**
      cURL library module for Python
 
-+ **xmltodict**   
+ + **xmltodict**   
   xml转dict
   
-+ **scrapy** 
+ + **scrapy** 
 ### 爬虫
-转自：
-作者：史豹  
-链接：https://www.zhihu.com/question/20501628/answer/223340838  
-来源：知乎  
-著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。  
-  
 
-Scrapy – 一个快速高级的屏幕爬取及网页采集框架。  
+ + **Scrapy** 
+– 个快速高级的屏幕爬取及网页采集框架。  
 cola – 一个分布式爬虫框架。  
 Demiurge – 基于PyQuery 的爬虫微型框架。  
 feedparser – 通用 feed 解析器。  
@@ -272,7 +267,7 @@ pytesseract – Google Tesseract OCR 的另一个封装(wrapper)。
 
 + **atexit**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzIyOTc5MDcwLC04MDUwNTg0OTEsMTM3OT
-EwMTY4OCwtOTQ5MTQ4MzQwLDIzOTAyNjY5NSwxMTU4NzEzODcw
-LDE2NDMwMTM0ODIsODk5NzE4MjY2LDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbLTE1ODk1ODEyNjMsLTgwNTA1ODQ5MSwxMz
+c5MTAxNjg4LC05NDkxNDgzNDAsMjM5MDI2Njk1LDExNTg3MTM4
+NzAsMTY0MzAxMzQ4Miw4OTk3MTgyNjYsNzMwOTk4MTE2XX0=
 -->
