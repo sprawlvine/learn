@@ -55,6 +55,8 @@
   创建独立 Python 环境的工具
 
 ## web
++ **flask**  
+
 +  **SimpleHTTPServer** 
  
 + **urllib/urllib2/httplib**  
@@ -73,7 +75,14 @@
   
 +  **youtube-dl**
   用来下载 YouTube 视频的工具
-        
+
++ **pycurl**
+     cURL library module for Python
+
++ **xmltodict**   
+  xml转dict
++ 
+
 ## 迭代器    
 +  **itertools**
   迭代器
@@ -107,6 +116,6 @@
 
 + **atexit**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTE1OTc2MjMsODk5NzE4MjY2LDczMD
-k5ODExNl19
+eyJoaXN0b3J5IjpbMTg4NzE5NDU2Niw4OTk3MTgyNjYsNzMwOT
+k4MTE2XX0=
 -->
