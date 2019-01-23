@@ -21,6 +21,9 @@
     
 # 3. 使用    
 
+ - 显示符号表
+	点击 `explore`窗口，`outline`
+	
  - 多行注释快捷键
 	```
     ctrl + shit + A	 
@@ -30,7 +33,7 @@
     ctrl + /
 	```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwMzcyNzMxMSwtMTcyMzMxNzUzMiwyNj
-cwNTgwMDMsNjEyMzQzNTMxLC01OTg4NzUwMzIsNzMwOTk4MTE2
-XX0=
+eyJoaXN0b3J5IjpbMTA2NjI5MTcyLC0xNzIzMzE3NTMyLDI2Nz
+A1ODAwMyw2MTIzNDM1MzEsLTU5ODg3NTAzMiw3MzA5OTgxMTZd
+fQ==
 -->
