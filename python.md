@@ -52,7 +52,7 @@
 ## 系统、shell交互
 +  **os**
 +  **subprocess**  
-
++ **sh**
 ## 容器、部署
 + **virtualenv**  
   创建独立 Python 环境的工具
@@ -138,6 +138,6 @@
 
 + **atexit**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0MzAxMzQ4Miw4OTk3MTgyNjYsNzMwOT
-k4MTE2XX0=
+eyJoaXN0b3J5IjpbLTE5NDY3NDk4MjQsMTY0MzAxMzQ4Miw4OT
+k3MTgyNjYsNzMwOTk4MTE2XX0=
 -->
