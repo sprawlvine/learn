@@ -20,13 +20,6 @@ wheel – Python 分发的新标准，意在取代 eggs。
 **本地 PyPI 仓库服务和代理**
 
 warehouse – 下一代 PyPI。  
-Warehousebandersnatch – PyPA 提供的 PyPI 镜像工具。  
-devpi – PyPI 服务和打包/测试/分发工具。  
-localshop – 本地 PyPI 服务（自定义包并且自动对 PyPI 镜像）。
-
-
-**分发**
-
 打包为可执行文件以便分发。
 
 PyInstaller – 将 Python 程序转换成独立的执行文件（跨平台）。  
@@ -38,10 +31,6 @@ pynsist – 一个用来创建 Windows 安装程序的工具，可以在安装�
 
   
   
-作者：史豹  
-链接：https://www.zhihu.com/question/20501628/answer/223340838  
-来源：知乎  
-著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
 # 4. 常用库
 ## 4.1 参考
   **[vinta/awesome-python · GitHub](https://github.com/vinta/awesome-python)**
@@ -195,6 +184,7 @@ pynsist – 一个用来创建 Windows 安装程序的工具，可以在安装�
 
 + **atexit**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjM5MDI2Njk1LDExNTg3MTM4NzAsMTY0Mz
-AxMzQ4Miw4OTk3MTgyNjYsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbMTg5OTAxMDkxOCwyMzkwMjY2OTUsMTE1OD
+cxMzg3MCwxNjQzMDEzNDgyLDg5OTcxODI2Niw3MzA5OTgxMTZd
+fQ==
 -->
