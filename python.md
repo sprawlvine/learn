@@ -50,9 +50,11 @@
 
 
 ## 系统、shell交互
-+  **os**
-+  **subprocess**  
++ **os**
++ **subprocess**  
 + **sh**
+  sh is a full-fledged subprocess replacement for Python 2.6 - 3.5
+  
 ## 容器、部署
 + **virtualenv**  
   创建独立 Python 环境的工具
@@ -138,6 +140,6 @@
 
 + **atexit**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDY3NDk4MjQsMTY0MzAxMzQ4Miw4OT
+eyJoaXN0b3J5IjpbLTIwNDg0NTUwNjYsMTY0MzAxMzQ4Miw4OT
 k3MTgyNjYsNzMwOTk4MTE2XX0=
 -->
