@@ -22,8 +22,9 @@
     
 # 3. 使用    
 - workspace理解
-workspace包含了一组目录和文件，类似gongchen
-
+	```
+    workspace包含了一组目录和文件，类似工程的概念
+	```	
  - 显示符号表
 	点击 `explore`窗口，`outline`
 	
@@ -36,7 +37,7 @@ workspace包含了一组目录和文件，类似gongchen
     ctrl + /
 	```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExODk0MzQ3MCwxMDY2MjkxNzIsLTE3Mj
-MzMTc1MzIsMjY3MDU4MDAzLDYxMjM0MzUzMSwtNTk4ODc1MDMy
-LDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbLTExOTk5MjY3NjQsMTA2NjI5MTcyLC0xNz
+IzMzE3NTMyLDI2NzA1ODAwMyw2MTIzNDM1MzEsLTU5ODg3NTAz
+Miw3MzA5OTgxMTZdfQ==
 -->
