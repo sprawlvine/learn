@@ -14,7 +14,14 @@ virtualenvwrapper
 
 # 3. 知识点滴
 ## 3.1 list
-
+ - **pop** <br>
+	```
+     In [8]: ss
+    Out[8]: ['', '01']
+    
+    In [9]: ss.pop()
+    Out[9]: '01'
+	
  - **count** <br> 
 	```
     In [20]: a
@@ -288,8 +295,8 @@ pytesseract – Google Tesseract OCR 的另一个封装(wrapper)。
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDIzMTA2NDQsLTE1ODU0MTQ1NjQsNz
-cxNjg2ODgwLDE0MzExOTE3NTksLTgwNTA1ODQ5MSwxMzc5MTAx
-Njg4LC05NDkxNDgzNDAsMjM5MDI2Njk1LDExNTg3MTM4NzAsMT
-Y0MzAxMzQ4Miw4OTk3MTgyNjYsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbLTg3MTc1MDA4MiwtMTU4NTQxNDU2NCw3Nz
+E2ODY4ODAsMTQzMTE5MTc1OSwtODA1MDU4NDkxLDEzNzkxMDE2
+ODgsLTk0OTE0ODM0MCwyMzkwMjY2OTUsMTE1ODcxMzg3MCwxNj
+QzMDEzNDgyLDg5OTcxODI2Niw3MzA5OTgxMTZdfQ==
 -->
