@@ -19,7 +19,11 @@ $ virtualenv venv
 New python executable in venv/bin/python
 Installing setuptools, pip............done.
 
+$ . venv/bin/activate
 
+
+
+$ deactivate
 
 # 3. 知识点滴
 ## 3.1 list
@@ -318,9 +322,9 @@ pytesseract – Google Tesseract OCR 的另一个封装(wrapper)。
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxMzM5Nzg4MiwxNzA1NjQ2NDM1LC0xNT
-g1NDE0NTY0LDc3MTY4Njg4MCwxNDMxMTkxNzU5LC04MDUwNTg0
-OTEsMTM3OTEwMTY4OCwtOTQ5MTQ4MzQwLDIzOTAyNjY5NSwxMT
-U4NzEzODcwLDE2NDMwMTM0ODIsODk5NzE4MjY2LDczMDk5ODEx
-Nl19
+eyJoaXN0b3J5IjpbNDY2Mjg5MzQ5LDE3MDU2NDY0MzUsLTE1OD
+U0MTQ1NjQsNzcxNjg2ODgwLDE0MzExOTE3NTksLTgwNTA1ODQ5
+MSwxMzc5MTAxNjg4LC05NDkxNDgzNDAsMjM5MDI2Njk1LDExNT
+g3MTM4NzAsMTY0MzAxMzQ4Miw4OTk3MTgyNjYsNzMwOTk4MTE2
+XX0=
 -->
