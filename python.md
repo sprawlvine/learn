@@ -72,7 +72,10 @@ wheel – Python 分发的新标准，意在取代 eggs。
 
 ### 命令行   
 + **click**  
-
++ 
++ **colorama** 
+  跨平台彩色终端文本。
+  
 ### 文件、目录处理
 + **shutil**     
   shutil - Utility functions for copying and archiving files and directory trees  
@@ -210,7 +213,7 @@ wheel – Python 分发的新标准，意在取代 eggs。
 
 + **atexit**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczNTU4MDQ3MSwtOTQ5MTQ4MzQwLDIzOT
-AyNjY5NSwxMTU4NzEzODcwLDE2NDMwMTM0ODIsODk5NzE4MjY2
-LDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbNzcxMjc2MzM1LC05NDkxNDgzNDAsMjM5MD
+I2Njk1LDExNTg3MTM4NzAsMTY0MzAxMzQ4Miw4OTk3MTgyNjYs
+NzMwOTk4MTE2XX0=
 -->
