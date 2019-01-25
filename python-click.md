@@ -1,6 +1,6 @@
 
 # option
-
++ **Range Options**
 + **Callbacks for Validation**<br>
 Example:
 	```
@@ -31,6 +31,6 @@ And what it looks like:
 ```
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5NjgwNTgsMTU0MzU0NTA2Myw3MzA5OT
-gxMTZdfQ==
+eyJoaXN0b3J5IjpbLTE1NjAzNzU1ODgsMTU0MzU0NTA2Myw3Mz
+A5OTgxMTZdfQ==
 -->
