@@ -1,7 +1,12 @@
 
 # option
-
-
++ **Multi Value Options**<br>
++ **Tuples as Multi Value Options**<br>
++ **Multiple Options**<br>
++ **Counting**<br>
++ **Boolean Flags**<br>
++ **Feature Switches**<br>
++ **Choice Options**<br>
 + **Dynamic Defaults for Prompts**
 + **Yes Parameters**
 + **Values from Environment Variables**
@@ -36,6 +41,6 @@ And what it looks like:
 ```
 # Arguments
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQxMDUwODg2LC0zMDQ3MTQ5MjQsMTU0Mz
-U0NTA2Myw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbLTEwNjgzMDk1MDksLTMwNDcxNDkyNCwxNT
+QzNTQ1MDYzLDczMDk5ODExNl19
 -->
