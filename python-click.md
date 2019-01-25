@@ -1,6 +1,6 @@
 
 # option
-+ 
++ **Dynamic Defaults for Prompts**
 + **Yes Parameters**
 + **Values from Environment Variables**
 + **Range Options**
@@ -34,6 +34,6 @@ And what it looks like:
 ```
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTA1MTI5ODQyLDE1NDM1NDUwNjMsNzMwOT
-k4MTE2XX0=
+eyJoaXN0b3J5IjpbMTAxOTUzMDc1OSwxNTQzNTQ1MDYzLDczMD
+k5ODExNl19
 -->
