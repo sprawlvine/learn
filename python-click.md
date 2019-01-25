@@ -1,5 +1,6 @@
 
 # option
+## Boolean Flags
 ## Feature Switches
 ## Choice Options
 + **Dynamic Defaults for Prompts**
@@ -36,6 +37,6 @@ And what it looks like:
 ```
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwNDcxNDkyNCwxNTQzNTQ1MDYzLDczMD
-k5ODExNl19
+eyJoaXN0b3J5IjpbMTkwODU5MjUzMSwtMzA0NzE0OTI0LDE1ND
+M1NDUwNjMsNzMwOTk4MTE2XX0=
 -->
