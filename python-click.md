@@ -14,7 +14,8 @@
 + **Callbacks for Validation**<br>
 
 # Arguments
+## Variadic Arguments
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwNzI0NTUyMCwtMzA0NzE0OTI0LDE1ND
-M1NDUwNjMsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbNTUxNDk0NzUzLDE4MDcyNDU1MjAsLTMwND
+cxNDkyNCwxNTQzNTQ1MDYzLDczMDk5ODExNl19
 -->
