@@ -19,7 +19,7 @@ Example:
         roll()
 	```
 And what it looks like:
-	```	
+```			
     $ roll --rolls=42
     Usage: roll [OPTIONS]
     
@@ -27,9 +27,9 @@ And what it looks like:
     
     $ roll --rolls=2d12
     Rolling a 12-sided dice 2 time(s)
-	```
+```
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwMTE1OTY0NCwxNTQzNTQ1MDYzLDczMD
+eyJoaXN0b3J5IjpbLTM3MDM5MzA3NiwxNTQzNTQ1MDYzLDczMD
 k5ODExNl19
 -->
