@@ -1,12 +1,7 @@
 
 # option
-## Multi Value Options
-## Tuples as Multi Value Options
-## Multiple Options
-## Counting
-## Boolean Flags
-## Feature Switches
-## Choice Options
+
+
 + **Dynamic Defaults for Prompts**
 + **Yes Parameters**
 + **Values from Environment Variables**
@@ -39,8 +34,8 @@ And what it looks like:
     $ roll --rolls=2d12
     Rolling a 12-sided dice 2 time(s)
 ```
-> Written with [StackEdit](https://stackedit.io/).
+# Arguments
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2MDkwNjA2NywtMzA0NzE0OTI0LDE1ND
-M1NDUwNjMsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbMzQxMDUwODg2LC0zMDQ3MTQ5MjQsMTU0Mz
+U0NTA2Myw3MzA5OTgxMTZdfQ==
 -->
