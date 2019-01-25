@@ -1,5 +1,7 @@
 
 # option
+## Feature Switches
+## Choice Options
 + **Dynamic Defaults for Prompts**
 + **Yes Parameters**
 + **Values from Environment Variables**
@@ -34,6 +36,6 @@ And what it looks like:
 ```
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxOTUzMDc1OSwxNTQzNTQ1MDYzLDczMD
+eyJoaXN0b3J5IjpbLTMwNDcxNDkyNCwxNTQzNTQ1MDYzLDczMD
 k5ODExNl19
 -->
