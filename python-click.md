@@ -1,5 +1,6 @@
 
 # option
+## Counting
 ## Boolean Flags
 ## Feature Switches
 ## Choice Options
@@ -37,6 +38,6 @@ And what it looks like:
 ```
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwODU5MjUzMSwtMzA0NzE0OTI0LDE1ND
+eyJoaXN0b3J5IjpbMjA2OTI3Njg1NCwtMzA0NzE0OTI0LDE1ND
 M1NDUwNjMsNzMwOTk4MTE2XX0=
 -->
