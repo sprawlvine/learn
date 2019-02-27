@@ -16,4 +16,6 @@
 10. TensorFlow
 11. Theano
   定义了类似NumPy的多维数组
-12. 
+12. NLTK
+  自然语言工具包
+13. Gensim
