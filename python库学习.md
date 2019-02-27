@@ -139,12 +139,13 @@ The fastest markdown parser in pure Python with renderer features, inspired by m
 ```
 # Optical Character Recognition (OCR)
 
-1. pytesseract 
+1. **pytesseract **
 A wrapper for Google Tesseract OCR.
-2.Chinese Word Segmentation
-jieba - Chinese Words Segmentation Utilities.
-Concurrency and Networking
-
-gevent - A coroutine-based Python networking library that uses greenlet.
+# Chinese Word Segmentation
+1. **jieba** 
+Chinese Words Segmentation Utilities.
+# Concurrency and Networking
+1. **gevent**
+A coroutine-based Python networking library that uses greenlet.
 
 
