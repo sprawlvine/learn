@@ -120,10 +120,14 @@ SpaCy是自然语言处理库，具有出色的示例、API文档和演示应用
 # Web框架
 1. **Django**
 ```
-
+The most popular full featured web framework in Python
 ```
 # Markdown parser
-1. mistune 
+1. **mistune** 
+```
+The fastest markdown parser in pure Python with renderer features, inspired by marked.
+
+```
 
 
 
