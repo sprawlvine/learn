@@ -78,8 +78,16 @@ Pydot用于生成复杂的定向图和非定向图。它是用Python编写的Gra
 
 ```
 # 深度学习
+1. **Keras**
+```
+使用Theano或TensorFlow作为后端，微软正努力整合CNTK作为新的后端
 
-4. PyTorch
+```
+2. **TensorFlow**
+```
+
+```
+3. **PyTorch**
 ```
 PyTorch是一个大型框架，能通过GPU加速执行tensor计算，创建动态计算图并自动计算梯度。此外，PyTorch为解决神经网络相关的应用提供了丰富的API。
 PyTorch基于Torch，它是用C语言实现的开源的深度学习库。
