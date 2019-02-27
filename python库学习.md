@@ -4,9 +4,7 @@
 3. Pandas
 4. Matplotlib
 5. Seaborn
-    ```
     统计模型可视化
-
-    ```
 6. Bokeh
+    侧重于交互可视化   
 7. 
