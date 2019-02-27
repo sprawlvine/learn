@@ -124,30 +124,14 @@ SpaCy是自然语言处理库，具有出色的示例、API文档和演示应用
 ```
 爬虫框架，可用于创建扫描页面和收集结构化数据。
 ```
-# **HTTP Request**
+### **.HTTP Request**
 1. **[requests](https://github.com/kennethreitz/requests)**
-# Web Content Extracting
+### Web Content Extracting
 1. **[newspaper](https://github.com/codelucas/newspaper)**
 # Web框架
 1. **Django**
 ```
 The most popular full featured web framework in Python
 ```
-# Markdown parser
-1. **mistune** 
-```
-The fastest markdown parser in pure Python with renderer features, inspired by marked.
-
-```
-# Optical Character Recognition (OCR)
-
-1. **pytesseract **
-A wrapper for Google Tesseract OCR.
-# Chinese Word Segmentation
-1. **jieba** 
-Chinese Words Segmentation Utilities.
-# Concurrency and Networking
-1. **gevent**
-A coroutine-based Python networking library that uses greenlet.
-
+# 
 
