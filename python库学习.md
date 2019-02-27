@@ -48,13 +48,7 @@ Scikit-learn基于NumPy和SciPy，并且是处理数据方面的不错选择。S
 
 ```
 
-**9. Keras**
-```
-使用Theano或TensorFlow作为后端，微软正努力整合CNTK作为新的后端
 
-```
-
-**10. TensorFlow**
 **11. Theano**
 ```
 定义了类似NumPy的多维数组
@@ -83,6 +77,7 @@ Pydot用于生成复杂的定向图和非定向图。它是用Python编写的Gra
 通常机器学习模型预测的结果并不特别清晰，这时就需要用到eli5了。它可以用于可视化和调试机器学习模型，并逐步跟踪算法运行情况。同时eli5能为scikit-learn，XGBoost，LightGBM，lightning和sklearn-crfsuite库提供支持。
 
 ```
+# 深度学习
 
 4. PyTorch
 ```
@@ -90,8 +85,8 @@ PyTorch是一个大型框架，能通过GPU加速执行tensor计算，创建动�
 PyTorch基于Torch，它是用C语言实现的开源的深度学习库。
 
 ```
-
-5. Dist-keras / elephas / spark-deep-learning
+# 分布式深度学习
+1. Dist-keras / elephas / spark-deep-learning
 ```
 由于越来越多的用例需要大量的精力和时间，深度学习问题变得更为重要。但是，使用Apache Spark之类的分布式计算系统能够更容易处理大量数据，这又扩展了深度学习的可能性。
 
