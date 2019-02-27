@@ -44,7 +44,7 @@ Seaborn是基于matplotlib库更高级别的API。它包含更适合处理图表
 
 **8. SciKit-Learn**
 ```
-图像处理和机器学习辅助，建立在Scipy之上
+Scikit-learn基于NumPy和SciPy，并且是处理数据方面的不错选择。Scikit-learn为许多机器学习和数据挖掘任务提供算法，比如聚类、回归、分类、降维和模型选择。
 
 ```
 
@@ -86,4 +86,10 @@ Seaborn是基于matplotlib库更高级别的API。它包含更适合处理图表
 ```
 
 # 2018 增删
-**1. **
+**1. Pydot**
+```
+Pydot用于生成复杂的定向图和非定向图。它是用Python编写的Graphviz接口。使用Pydot能够显示图形结构，这经常用于构建神经网络和基于决策树的算法。
+
+```
+**2. **
+
