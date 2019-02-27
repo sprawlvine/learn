@@ -137,6 +137,14 @@ The most popular full featured web framework in Python
 The fastest markdown parser in pure Python with renderer features, inspired by marked.
 
 ```
+# Optical Character Recognition (OCR)
 
+1. pytesseract 
+A wrapper for Google Tesseract OCR.
+2.Chinese Word Segmentation
+jieba - Chinese Words Segmentation Utilities.
+Concurrency and Networking
+
+gevent - A coroutine-based Python networking library that uses greenlet.
 
 
