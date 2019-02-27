@@ -10,3 +10,6 @@
 7. Plotly
   基于Web用于构建可视化工具箱
 8. SciKit-Learn
+  图像处理和机器学习辅助，建立在Scipy之上
+9. Keras
+10. 
