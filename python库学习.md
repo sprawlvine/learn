@@ -1,4 +1,4 @@
-# 参考
+# 其它参考
 > [one-python：三千Lib 库，每领域取Top 1](https://github.com/vinta/awesome-python)
 # 核心库和统计
 1. **Numpy**
