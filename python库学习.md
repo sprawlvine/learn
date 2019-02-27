@@ -134,5 +134,5 @@ SpaCy是自然语言处理库，具有出色的示例、API文档和演示应用
 
 # 其它
 1. bigdata？
-  
+  Cassandra？Hbase？Hadoop？Spark？kafka？
 
