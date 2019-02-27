@@ -52,25 +52,23 @@ Seaborn是基于matplotlib库更高级别的API。它包含更适合处理图表
 使用统计模型的估算方法进行数据挖掘
 
 ```
-
-# 机器学习
-
-**8. SciKit-Learn**
-```
-Scikit-learn基于NumPy和SciPy，并且是处理数据方面的不错选择。Scikit-learn为许多机器学习和数据挖掘任务提供算法，比如聚类、回归、分类、降维和模型选择。
-
-```
 **1. Pydot**
 ```
 Pydot用于生成复杂的定向图和非定向图。它是用Python编写的Graphviz接口。使用Pydot能够显示图形结构，这经常用于构建神经网络和基于决策树的算法。
 
 ```
-**2. XGBoost / LightGBM / CatBoost**
+# 机器学习
+1. **SciKit-Learn**
+```
+Scikit-learn基于NumPy和SciPy，并且是处理数据方面的不错选择。Scikit-learn为许多机器学习和数据挖掘任务提供算法，比如聚类、回归、分类、降维和模型选择。
+
+```
+2. **XGBoost / LightGBM / CatBoost**
 ```
 梯度提升(gradient boosting)是最流行的机器学习算法之一，这在决策树模型中是至关重要的。
 
 ```
-3. Eli5
+3. **Eli5**
 ```
 通常机器学习模型预测的结果并不特别清晰，这时就需要用到eli5了。它可以用于可视化和调试机器学习模型，并逐步跟踪算法运行情况。同时eli5能为scikit-learn，XGBoost，LightGBM，lightning和sklearn-crfsuite库提供支持。
 
