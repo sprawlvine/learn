@@ -2,7 +2,8 @@
 **1. Numpy**
   NumPy用于处理大型多维数组和矩阵，并通过大量的高级数学函数和实现方法进行各种操作。
 **2. Scipy**
-  
+  SciPy基于NumPy，因此扩展了NumPy的功能。
+  SciPy的主要数据结构是由Numpy实现的多维数组。当中包括许多解决线性代数、概率论、积分等任务的工具。
 **3. Pandas**
 **4. Matplotlib**
 **5. Seaborn**
