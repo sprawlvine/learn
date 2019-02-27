@@ -130,6 +130,8 @@ The fastest markdown parser in pure Python with renderer features, inspired by m
 ```
 # Web Content Extracting
 1. **[newspaper](https://github.com/codelucas/newspaper)**
+# **Http Request**
+1. **HTTP Request**
 
 
 
