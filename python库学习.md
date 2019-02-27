@@ -128,6 +128,8 @@ The most popular full featured web framework in Python
 The fastest markdown parser in pure Python with renderer features, inspired by marked.
 
 ```
+# Web Content Extracting
+1. **newspaper**
 
 
 
