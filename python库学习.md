@@ -1,5 +1,6 @@
 # 2017
-1. Numpy
+1. **Numpy**
+  NumPy用于处理大型多维数组和矩阵，并通过大量的高级数学函数和实现方法进行各种操作。
 2. Scipy
 3. Pandas
 4. Matplotlib
