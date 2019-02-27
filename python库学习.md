@@ -89,6 +89,11 @@ PyTorch是一个大型框架，能通过GPU加速执行tensor计算，创建动�
 PyTorch基于Torch，它是用C语言实现的开源的深度学习库。
 
 ```
+4. caffe 
+```
+Deep learning framework made with expression, speed, and modularity in mind.
+
+```
 
 # 分布式深度学习
 1. Dist-keras / elephas / spark-deep-learning
