@@ -91,5 +91,10 @@ Scikit-learn基于NumPy和SciPy，并且是处理数据方面的不错选择。S
 Pydot用于生成复杂的定向图和非定向图。它是用Python编写的Graphviz接口。使用Pydot能够显示图形结构，这经常用于构建神经网络和基于决策树的算法。
 
 ```
-**2. **
+**2. XGBoost / LightGBM / CatBoost**
+```
+梯度提升(gradient boosting)是最流行的机器学习算法之一，这在决策树模型中是至关重要的。
+
+```
+
 
