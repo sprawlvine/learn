@@ -83,10 +83,6 @@ PyTorch是一个大型框架，能通过GPU加速执行tensor计算，创建动�
 PyTorch基于Torch，它是用C语言实现的开源的深度学习库。
 
 ```
-4. **Theano**
-```
-定义了类似NumPy的多维数组
-
 ```
 # 分布式深度学习
 1. Dist-keras / elephas / spark-deep-learning
