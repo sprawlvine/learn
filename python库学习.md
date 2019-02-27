@@ -41,14 +41,6 @@ Seaborn是基于matplotlib库更高级别的API。它包含更适合处理图表
 基于Web用于构建可视化工具箱Plotly能够让你轻松构建复杂的图形。Plotly适用于交互式Web应用程序。可视化方面包括等高线图、三元图和三维图。
 
 ```
-
-**8. SciKit-Learn**
-```
-Scikit-learn基于NumPy和SciPy，并且是处理数据方面的不错选择。Scikit-learn为许多机器学习和数据挖掘任务提供算法，比如聚类、回归、分类、降维和模型选择。
-
-```
-
-
 **11. Theano**
 ```
 定义了类似NumPy的多维数组
@@ -61,7 +53,13 @@ Scikit-learn基于NumPy和SciPy，并且是处理数据方面的不错选择。S
 
 ```
 
-# 2018 增删
+# 机器学习
+
+**8. SciKit-Learn**
+```
+Scikit-learn基于NumPy和SciPy，并且是处理数据方面的不错选择。Scikit-learn为许多机器学习和数据挖掘任务提供算法，比如聚类、回归、分类、降维和模型选择。
+
+```
 **1. Pydot**
 ```
 Pydot用于生成复杂的定向图和非定向图。它是用Python编写的Graphviz接口。使用Pydot能够显示图形结构，这经常用于构建神经网络和基于决策树的算法。
@@ -85,7 +83,7 @@ Pydot用于生成复杂的定向图和非定向图。它是用Python编写的Gra
 ```
 2. **TensorFlow**
 ```
-
+TensorFlow能够用于多个数据集的人工神经网络。TensorFlow的主要应用包括对象识别、语音识别等等。
 ```
 3. **PyTorch**
 ```
