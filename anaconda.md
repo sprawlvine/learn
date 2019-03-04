@@ -50,3 +50,4 @@ conda update anaconda-navigator
     或者
     > conda install [-c conda-forge] scrapy
       其中-c是选择channel，即包的源
+    conda
