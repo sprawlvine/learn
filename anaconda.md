@@ -46,4 +46,6 @@ conda update anaconda-navigator
 - **切换env**
     > active py2.7
 - **包安装管理**
-    > pip 自行安装管理
+    > pip 安装管理 
+    或者
+    > conda install -c conda-forge scrapy
