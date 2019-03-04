@@ -43,8 +43,8 @@ conda update anaconda-navigator
 ### 3.2.2 anaconda cli界面
 - **查看env list**
     > conda info -e
-- **切换env**
-    > active py2.7
+- **切换env（os terminal/anaconda prompt）**
+    > activate/deactive py2.7
 - **包安装管理**
 **conda自动解决依赖关系**，++推荐用conda安装++，但是一些第三方包，conda会找不到，用pip安装即可
     > pip 安装管理 
