@@ -53,5 +53,6 @@ conda自动解决依赖关系，推荐用conda安装，但是一些第三方包�
       其中-c是选择channel，即包的源
   - **安装好后，查看当前环境中已经安装的包**：
     conda list
-  -
+  - **添加 --name 参数安装包到指定环境**
+    conda install --name 环境名 click
     
