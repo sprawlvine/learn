@@ -40,7 +40,7 @@ conda update anaconda-navigator
   > 段落引用Anaconda Navigator图形界面 --> Envrioments --> 点击选中相应的env，切换
 - **包的管理**
   > 可以通过搜索框输入，并通过filter框过滤查看，然后点击相应的包进行install、update，uninstall
-### 3.2.2 cli界面
+### 3.2.2 anaconda cli界面
 - **查看env list**
     > conda info -e
 - **切换env**
