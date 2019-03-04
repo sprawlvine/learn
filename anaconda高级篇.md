@@ -7,5 +7,7 @@
   > conda remove nb_conda
 ## 1.2 启动
 - 参考上面，切换到相应的virtual env
-- 命令行：jupyter-notebook
+- 命令行：jupyter notebook
 - 图形界面：在enviroment中点击启动
+
+##
