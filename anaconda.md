@@ -34,7 +34,7 @@ conda update anaconda-navigator
 ### 3.1.2 cli界面
     Anaconda prompt->
     conda create --name py2.7 python=2.7
-## 3.2 使用和包管理
+## 3.2 使用env和env的包管理
 ### 3.2.1 图形界面
 - **查看、切换env**
   > 段落引用Anaconda Navigator图形界面 --> Envrioments --> 点击选中相应的env，切换
@@ -58,3 +58,4 @@ conda update anaconda-navigator
   - **升级指定依赖包**
     conda update click
     
+## 3.3 env的导入和导出
