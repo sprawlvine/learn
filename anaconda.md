@@ -6,11 +6,11 @@
 ## 1.2 linux
 - 点击下载：[anaconda for linux](https://www.anaconda.com/download/#linux)
 - 安装:
-  + python 3.x:
+  + **python 3.x**
   ```
   bash ~/Downloads/Anaconda3-5.3.0-Linux-x86_64.sh
   ```
-  + python 2.x:
+  + **python 2.x**
   ```
   bash ~/Downloads/Anaconda2-5.3.0-Linux-x86_64.sh
   ```
