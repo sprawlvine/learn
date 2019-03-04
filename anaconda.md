@@ -31,3 +31,5 @@ conda update anaconda-navigator
 ## 3.1 图形界面
     Anaconda Navigator图形界面 --> Envrioments --> create
 ## 3.2 cli界面
+    Anaconda prompt->
+    
