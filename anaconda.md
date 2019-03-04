@@ -29,5 +29,5 @@ conda update anaconda-navigator
 ```
 # 3. 创建新的virtual env
 ## 3.1 图形界面
-Navigator图形界面 --
+    Anaconda Navigator图形界面 --> Envrioments --> create
 ## 3.2 cli界面
