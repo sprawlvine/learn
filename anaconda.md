@@ -6,6 +6,8 @@
 ## 1.2 linux
 
 # 2. Update
-执行命令：
-- conda update conda
-- conda update anaconda
+**执行命令**：
+```
+conda update conda
+conda update anaconda
+```
