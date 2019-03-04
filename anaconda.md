@@ -78,5 +78,4 @@ conda env remove --name testclone
 ## 3.4 在vscode 如何切换env，使用
 点击左下角，选择
 
-## 3.5 在
-OS的Terminal如何切换env
+## 3.5 在OS的Terminal如何切换env
