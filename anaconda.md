@@ -62,4 +62,4 @@ conda update anaconda-navigator
 ### 3.3.1 图形界面
 ### 3.3.2 cli
 conda env export > testenv.yaml
-conda env create -f testenv.yaml
+conda env create --name testclone -f testenv.yaml
