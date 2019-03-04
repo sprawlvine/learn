@@ -5,9 +5,14 @@
 - 安装完成，打开 Anaconda Navigator，能打开，则确实安装成功
 ## 1.2 linux
 - 点击下载：[anaconda for linux](https://www.anaconda.com/download/#linux)
-- 安装(以安装python 3.x为例)：
+- 安装:
+  - python 3.x:
 ```
 bash ~/Downloads/Anaconda3-5.3.0-Linux-x86_64.sh
+```
+  - python 2.x
+```
+bash ~/Downloads/Anaconda2-5.3.0-Linux-x86_64.sh
 ```
 # 2. Update
 **执行命令**：
