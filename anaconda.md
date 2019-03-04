@@ -27,7 +27,7 @@ conda update anaconda
 conda deactivate
 conda update anaconda-navigator
 ```
-# 3.使用virtuale env
+# 3.virtuale env的创建和切换使用
 ## 3.1 创建新的virtual env
 ### 3.1.1 图形界面
     Anaconda Navigator图形界面 --> Envrioments --> create
