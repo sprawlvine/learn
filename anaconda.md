@@ -27,3 +27,5 @@ conda update anaconda
 conda deactivate
 conda update anaconda-navigator
 ```
+# 3. 创建新的virtual env
+##
