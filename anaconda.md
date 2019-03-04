@@ -59,5 +59,7 @@ conda update anaconda-navigator
     conda update click
     
 ## 3.3 env的export和import
-### 3.3.1 export
-###
+### 3.3.1 图形界面
+### 3.3.2 cli
+conda env export > testenv.yaml
+conda env create -f testenv.yaml
