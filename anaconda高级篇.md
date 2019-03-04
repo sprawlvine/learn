@@ -10,4 +10,5 @@
 - 命令行：jupyter notebook
 - 图形界面：在enviroment中点击启动
 ## 1.3 slide演示
-- 安装conda install -c damianavila82 rise
+参考[slide演示](https://zhuanlan.zhihu.com/p/37590039)
+
