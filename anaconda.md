@@ -23,3 +23,7 @@ conda update conda
 conda update anaconda
 ```
 ## 2.2 **升级navigator**
+```
+conda deactivate
+conda update anaconda-navigator
+```
