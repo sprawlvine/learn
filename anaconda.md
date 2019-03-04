@@ -28,4 +28,6 @@ conda deactivate
 conda update anaconda-navigator
 ```
 # 3. 创建新的virtual env
-##
+## 3.1 图形界面
+Navigator图形界面 --
+## 3.2 cli界面
