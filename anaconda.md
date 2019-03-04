@@ -45,3 +45,5 @@ conda update anaconda-navigator
     > conda info -e
 - **切换env**
     > active py2.7
+- **包安装管理**
+    > pip 自行安装管理
