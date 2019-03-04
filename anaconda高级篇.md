@@ -10,5 +10,6 @@
 - 命令行：jupyter notebook
 - 图形界面：在enviroment中点击启动
 ## 1.3 slide演示
-参考[slide演示](https://zhuanlan.zhihu.com/p/37590039)
-
+[slide演示](https://zhuanlan.zhihu.com/p/37590039)
+参考：
+[如虎添翼的插件](http://www.zhuanzhi.ai/document/4fbb616328038d0368689c8f65345e13)
