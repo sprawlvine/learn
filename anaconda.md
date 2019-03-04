@@ -36,7 +36,8 @@ conda update anaconda-navigator
     conda create --name py2.7 python=2.7
 ## 3.2 使用
 ### 3.2.1 图形界面
-    Anaconda Navigator图形界面 --> Envrioments --> 点击
+    Anaconda Navigator图形界面 --> Envrioments --> 点击选中相应的env，切换
 ### 3.2.2 cli界面
     Anaconda prompt->
-    conda create --name py2.7 python=2.7
+    conda info -e
+    active py2.7
