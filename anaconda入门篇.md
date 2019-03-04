@@ -15,6 +15,9 @@
   ```
 ## 1.3 安装确认
 打开 Anaconda Navigator(linux在terminal下敲: anaconda-navigator)，能打开，则确实安装成功
+## 1.4 修改国内的channel
+conda config --add channels https://mirrors.ustc.edu.cn/anaconda/pkgs/free/
+conda config --set show_channel_urls yes
 
 # 2. Update
 ## 2.1 **升级anaconda**：
