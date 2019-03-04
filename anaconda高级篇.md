@@ -5,3 +5,6 @@
   > conda install nb_conda
 - 删除
   > conda remove nb_conda
+## 1.2 启动
+- 参考上面，切换到相应的virtual env
+- jupyter-notebook
