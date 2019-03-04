@@ -74,3 +74,6 @@ conda env create --name testclone -f testenv.yaml
 ```
 conda env remove --name testclone
 ```
+
+## 3.4 在vscode
+OS的Terminal如何切换env
