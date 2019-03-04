@@ -48,4 +48,4 @@ conda update anaconda-navigator
 - **包安装管理**
     > pip 安装管理 
     或者
-    > conda install -c conda-forge scrapy
+    > conda install [-c conda-forge] scrapy
