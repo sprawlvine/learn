@@ -61,7 +61,7 @@ conda update anaconda-navigator
 ## 3.3 env的export和import
 ### 3.3.1 图形界面
     在Navigator的Enviroments中clone，import
-### 3.3.2 cli
+### 3.3.2 CLI界面
 ```
 conda env export > testenv.yaml
 conda env create --name testclone -f testenv.yaml
@@ -70,7 +70,7 @@ conda env create --name testclone -f testenv.yaml
 ## 3.3 env的删除
 ### 3.3.1 图形界面
     在Navigator的Enviroments中remove
-### 3.3.2 cli
+### 3.3.2 CLI界面
 ```
-conda env create --name testclone -f testenv.yaml
+conda env remove --name testclone
 ```
