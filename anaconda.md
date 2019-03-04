@@ -17,8 +17,9 @@
 打开 Anaconda Navigator(linux在terminal下敲: anaconda-navigator)，能打开，则确实安装成功
 
 # 2. Update
-**执行命令**：
+## 2.1 **升级anaconda**：
 ```
 conda update conda
 conda update anaconda
 ```
+## 2.2 **升级navigator**
