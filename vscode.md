@@ -17,7 +17,7 @@
 # 2. 配置
 
 ## 2.1 python开发
-  python工程开发，如果文件较大，   
+python工程开发，如果文件较大，逻辑较复杂，vscode的outline可能解析得不是很顺畅，可以考虑用pycharm配合anaconda开发，小工程快速开发可以   
     
     
 # 3. 使用  
