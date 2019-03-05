@@ -16,7 +16,7 @@
     ```
 # 2. 配置
 
-## 2.1 tab缩进4个空格的设置
+## 2.1 python开发
 
     安装editorconfig插件
     
@@ -29,15 +29,7 @@
 	点击 `explore`窗口，`outline`
 	
 - **多行注释快捷键**
-	```
-    ctrl + shit + A	 
-	```
+    > ctrl + shit + A	 
 - **单行注释快捷键**
-	```
-    ctrl + /
-	```
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2MDcyMTU2OCwtMTE5OTkyNjc2NCwxMD
-Y2MjkxNzIsLTE3MjMzMTc1MzIsMjY3MDU4MDAzLDYxMjM0MzUz
-MSwtNTk4ODc1MDMyLDczMDk5ODExNl19
--->
+    > ctrl + /
+
