@@ -17,19 +17,17 @@
 # 2. 配置
 
 ## 2.1 python开发
-
-    安装editorconfig插件
+  python工程开发，如果文件较大，   
+    
     
 # 3. 使用  
 - **workspace**
-	```
-    workspace包含了一组目录和文件，类似工程的概念
-	```	
+  > workspace包含了一组目录和文件，类似工程的概念
 - **显示符号表**
-	点击 `explore`窗口，`outline`
+  > 点击 `explore`窗口，`outline`
 	
 - **多行注释快捷键**
-    > ctrl + shit + A	 
+  > ctrl + shit + A	 
 - **单行注释快捷键**
-    > ctrl + /
+  > ctrl + /
 
