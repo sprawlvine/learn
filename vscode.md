@@ -21,11 +21,7 @@
     安装editorconfig插件
     
 # 3. 使用  
-- **virtualenv如何配置？**
-- **setuptools？**
-- **wheel** 
-
-- **workspace理解**
+- **workspace**
 	```
     workspace包含了一组目录和文件，类似工程的概念
 	```	
