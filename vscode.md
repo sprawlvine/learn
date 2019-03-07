@@ -1,3 +1,19 @@
+<h1>目录</h1>
+<!-- TOC -->
+
+- [1. 安装](#1-%E5%AE%89%E8%A3%85)
+- [2. 配置](#2-%E9%85%8D%E7%BD%AE)
+  - [2.1. python开发](#21-python%E5%BC%80%E5%8F%91)
+  - [2.2. markdown](#22-markdown)
+  - [2.3. 思维导图](#23-%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE)
+  - [2.4. 配置](#24-%E9%85%8D%E7%BD%AE)
+- [3. 基本使用](#3-%E5%9F%BA%E6%9C%AC%E4%BD%BF%E7%94%A8)
+- [4. debug](#4-debug)
+  - [4.1. python](#41-python)
+
+<!-- /TOC -->
+
+***
 
 # 1. 安装
 
@@ -21,7 +37,7 @@ sudo sh -c 'echo "deb [arch=amd64] https://packages.microsoft.com/repos/vscode s
 
 # 2. 配置
 
-## 2.1 python开发
+## 2.1. python开发
 
 python工程开发，如果文件较大，逻辑较复杂，vscode的outline可能解析得不是很顺畅，可以考虑用pycharm配合anaconda开发，中小工程快速开发用vscode很顺手？真的吗？安装完下面插件之后，我有点怀疑是不是可以继续这么吹pycharm ：）
 
@@ -62,7 +78,7 @@ python工程开发，如果文件较大，逻辑较复杂，vscode的outline可�
 - **Git History**
   >图形化显示日志
 
-## 2.2 markdown
+## 2.2. markdown
 
 - **Markdown All in One**
   >markdown支持
@@ -79,12 +95,12 @@ python工程开发，如果文件较大，逻辑较复杂，vscode的outline可�
 - **Mermaid Preview**
   >流程图预览支持
 
-## 2.3 思维导图
+## 2.3. 思维导图
 
 - **mindmap**
   >简单的思维导图，写文档的时候可以画一些思路，然后存成图片，导入github等图床
 
-## 2.4 配置
+## 2.4. 配置
 
 - **Settings Sync**
   >github上利用gist存储vscode的配置，存上去，随时取下来，不用反复配置了
@@ -102,7 +118,7 @@ python工程开发，如果文件较大，逻辑较复杂，vscode的outline可�
 
 # 4. debug
 
-## 4.1 python
+## 4.1. python
 
 Debug菜单——>左下角选择好python的编译器,然后可以进行local或者remote的debug，
 remote debug需要ptvsd的支持。
