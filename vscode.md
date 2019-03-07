@@ -4,7 +4,7 @@
 - [1. 安装](#1-%E5%AE%89%E8%A3%85)
 - [2. 配置](#2-%E9%85%8D%E7%BD%AE)
   - [2.1. python开发](#21-python%E5%BC%80%E5%8F%91)
-  - [2.2. markdown](#22-markdown)
+  - [2.2. Markdown](#22-markdown)
   - [2.3. 思维导图](#23-%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE)
   - [2.4. 配置](#24-%E9%85%8D%E7%BD%AE)
 - [3. 基本使用](#3-%E5%9F%BA%E6%9C%AC%E4%BD%BF%E7%94%A8)
@@ -78,7 +78,7 @@ python工程开发，如果文件较大，逻辑较复杂，vscode的outline可�
 - **Git History**
   >图形化显示日志
 
-## 2.2. markdown
+## 2.2. Markdown
 
 - **Markdown All in One**
   >markdown支持
@@ -91,9 +91,17 @@ python工程开发，如果文件较大，逻辑较复杂，vscode的outline可�
 - **markdownlint**
   >语法检查器，这个挺好，能让markdown文档写得很规范
 - **Markdown Preview Meraid support**
-  >流程图支持
+  >流程图支持，有Markdown preview enhanced，这个插件可以不装
 - **Mermaid Preview**
-  >流程图预览支持
+  >流程图预览支持，有Markdown preview enhanced，这个插件可以不装
+- **Markdown TOC**  
+  >生成目录工具
+- **Markdown+Math**  
+  >数学公式编辑
+- **Markdown PDF**  
+  >markdown转换为pdf/html/jpg/png的工具
+- **vscode-pdf**
+  >显示pdf文件
 
 ## 2.3. 思维导图
 
