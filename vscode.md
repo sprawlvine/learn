@@ -42,6 +42,11 @@ sudo sh -c 'echo "deb [arch=amd64] https://packages.microsoft.com/repos/vscode s
 
 python工程开发，如果文件较大，逻辑较复杂，vscode的outline可能解析得不是很顺畅，可以考虑用pycharm配合anaconda开发，中小工程快速开发用vscode很顺手？真的吗？安装完下面插件之后，我有点怀疑是不是可以继续这么吹pycharm ：）
 
+关于代码的对齐处理，python有格式化的工具：
+
+- **代码格式化工具**
+  >默认的autopep8，也可以用pip install yapf，然后用快捷键shit+alt+f，快速格式化文件，以便消除一些格式警告
+
 必备的插件，安装之后vscode好用得能起飞，插件安装好以后，有的插件直接在右键菜单出现，有命令的有的需要用F1或者CTRL+SHIT+P调出command palette，然后敲入插件名字，选择相应的命令：
 
 - **核心插件**
