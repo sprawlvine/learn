@@ -127,38 +127,66 @@ python工程开发，如果文件较大，逻辑较复杂，vscode的outline可�
 
 - **Markdown All in One**
   >markdown支持
+  >
+  >**使用方式：启动自动调用**
 - **Markdown Preview Github Style**
   >把默认的slide preview替换成github风格的
+  >
+  >**使用方式：F1或者右上角图标preview**
 - **Markdown Preview Enhanced**
   >功能比较全的预览支持
+  >
+  >**使用方式：F1或者右上角图标preview**
 - **Markdown Shortcuts**
   >输入快捷键，右键或者CTRL+SHIFT+P可以输入很多markdown语法，提高输入效率，有了它，没有toolbar也无妨
+  >常用的ctrl+B、ctrl+I，单行或者多行的tab缩进
+  >**使用方式：启动自动调用**
 - **markdownlint**
   >语法检查器，这个挺好，能让markdown文档写得很规范
+  >
+  >**使用方式：启动自动调用，自动提示**
 - **Markdown Preview Meraid support**
   >流程图支持，有Markdown preview enhanced，这个插件可以不装
+  >
+  >**使用方式：启动自动调用**
 - **Mermaid Preview**
   >流程图预览支持，有Markdown preview enhanced，这个插件可以不装
+  >
+  >**使用方式：F1选择**
 - **Markdown TOC**
   >生成目录工具
+  >
+  >**使用方式：F1或者右键菜单**
 - **Markdown+Math**
   >数学公式编辑
+  >
+  >**使用方式：启动自动调用**
 - **Markdown PDF**
   >markdown转换为pdf/html/jpg/png的工具
+  >
+  >**使用方式：F1命令选择**
 - **vscode-pdf**
   >显示pdf文件
+  >
+  >**使用方式：F1选择命令**
 - **Graphviz Markdown Preview**
   >可以显示港人aphviz的图，不过更合适的方式是把这些图转为pic使用，
+  >
+  >**使用方式：F1或者右键选择**
 
 ## 2.3. 思维导图
 
 - **mindmap**
   >简单的思维导图，写文档的时候可以画一些思路，然后存成图片，导入github等图床,这样markdown的文档可以更形象化
+  >
+  >**使用方式：F1调用，图形界面画完，保存**
 
 ## 2.4 UML/有向图
 
 - **Graphviz（dot）language support for Visual Studio Code**
-  >提供dot语言支持,可以转换成svn图片
+  >提供dot语言支持,可以转换成svg图片
+  >
+  >**使用方式：new或者打开dot文件，然后编辑，右键或者F1可以选择preview，可以转换为svg图片，如果要转换成png，则需要用svg viewer**
 - **PlantUML**
   >可以画各种UML图，然后导出成图片，配合写markdown，非常好用
 
@@ -168,8 +196,12 @@ python工程开发，如果文件较大，逻辑较复杂，vscode的outline可�
   Graphviz : PlantUML requires it to calculate positions in diagram.
   ```
 
+  >
+  >**使用方式：F1或者右键选择相应的命令preview**
 - **SVG viewer**
   >显示svn，转换为图片，这样，配合markdown书写
+  >
+  >**使用方式：F1选择命令或者右上角图片浏览，F1命令转换为图片**
 
 ## 2.4. 配置
 
