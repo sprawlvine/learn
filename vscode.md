@@ -6,6 +6,7 @@
   - [2.1. python开发](#21-python%E5%BC%80%E5%8F%91)
   - [2.2. Markdown](#22-markdown)
   - [2.3. 思维导图](#23-%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE)
+  - [2.4 UML/有向图](#24-uml%E6%9C%89%E5%90%91%E5%9B%BE)
   - [2.4. 配置](#24-%E9%85%8D%E7%BD%AE)
 - [3. 基本使用](#3-%E5%9F%BA%E6%9C%AC%E4%BD%BF%E7%94%A8)
 - [4. debug](#4-debug)
@@ -146,11 +147,29 @@ python工程开发，如果文件较大，逻辑较复杂，vscode的outline可�
   >markdown转换为pdf/html/jpg/png的工具
 - **vscode-pdf**
   >显示pdf文件
+- **Graphviz Markdown Preview**
+  >可以显示港人aphviz的图，不过更合适的方式是把这些图转为pic使用，
 
 ## 2.3. 思维导图
 
 - **mindmap**
-  >简单的思维导图，写文档的时候可以画一些思路，然后存成图片，导入github等图床
+  >简单的思维导图，写文档的时候可以画一些思路，然后存成图片，导入github等图床,这样markdown的文档可以更形象化
+
+## 2.4 UML/有向图
+
+- **Graphviz（dot）language support for Visual Studio Code**
+  >提供dot语言支持,可以转换成svn图片
+- **PlantUML**
+  >可以画各种UML图，然后导出成图片，配合写markdown，非常好用
+
+  ```markdown
+  需要安装：
+  Java : Platform for PlantUML running.
+  Graphviz : PlantUML requires it to calculate positions in diagram.
+  ```
+
+- **SVG viewer**
+  >显示svn，转换为图片，这样，配合markdown书写
 
 ## 2.4. 配置
 
