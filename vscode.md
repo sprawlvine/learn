@@ -216,15 +216,12 @@ python工程开发，如果文件较大，逻辑较复杂，vscode的outline可�
   >github上利用gist存储vscode的配置，存上去，随时取下来，不用反复配置了
 
   >有兴趣可以尝试我个人共享的**python**及**markdown**环境配置：
-  >1. **安装vscode**
-  [vscode](https://code.visualstudio.com/)
-  >2. **安装anaconda、git**
-  [anaconda](https://www.anaconda.com/distribution/)
-  [git](https://git-scm.com/downloads)
+  >1. **安装[vscode](https://code.visualstudio.com/)**
+  >2. **安装[anaconda](https://www.anaconda.com/distribution/)、[git](https://git-scm.com/downloads)**
   >3. 在vscode中**安装setting sync**插件
   >4. **导入配置**:
   >
-  >    菜单File -> Preferences -> setting -> 搜索 ‘gist’ -> 在gist id框中填入 0fbb2bc3c36d1339bd1120ffd02a8624
+  >    菜单**File** -> **Preferences** -> **settings** -> 搜索 ‘_gist_’ -> 在gist id框中填入 **0fbb2bc3c36d1339bd1120ffd02a8624**
 
 # 3. 基本使用
 
