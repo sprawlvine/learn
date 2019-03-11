@@ -6,8 +6,8 @@
   - [2.1. python开发](#21-python%E5%BC%80%E5%8F%91)
   - [2.2. Markdown](#22-markdown)
   - [2.3. 思维导图](#23-%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE)
-  - [2.4 UML/有向图](#24-uml%E6%9C%89%E5%90%91%E5%9B%BE)
-  - [2.4. 配置](#24-%E9%85%8D%E7%BD%AE)
+  - [2.4. UML/有向图](#24-uml%E6%9C%89%E5%90%91%E5%9B%BE)
+  - [2.5. 配置](#25-%E9%85%8D%E7%BD%AE)
 - [3. 基本使用](#3-%E5%9F%BA%E6%9C%AC%E4%BD%BF%E7%94%A8)
 - [4. debug](#4-debug)
   - [4.1. python](#41-python)
@@ -130,6 +130,8 @@ python工程开发，如果文件较大，逻辑较复杂，vscode的outline可�
 
 ## 2.2. Markdown
 
+[Markdown语法参考](https://markdown-zh.readthedocs.io/en/latest/)
+
 - **Markdown All in One**
   >markdown支持
   >
@@ -186,7 +188,7 @@ python工程开发，如果文件较大，逻辑较复杂，vscode的outline可�
   >
   >**使用方式：F1调用，图形界面画完，保存**
 
-## 2.4 UML/有向图
+## 2.4. UML/有向图
 
 - **Graphviz（dot）language support for Visual Studio Code**
   >提供dot语言支持,可以转换成svg图片
@@ -208,10 +210,21 @@ python工程开发，如果文件较大，逻辑较复杂，vscode的outline可�
   >
   >**使用方式：F1选择命令或者右上角图片浏览，F1命令转换为图片**
 
-## 2.4. 配置
+## 2.5. 配置
 
 - **Settings Sync**
   >github上利用gist存储vscode的配置，存上去，随时取下来，不用反复配置了
+
+  >有兴趣可以尝试我个人共享的**python**及**markdown**环境配置：
+  >1. **安装vscode**
+  [vscode](https://code.visualstudio.com/)
+  >2. **安装anaconda、git**
+  [anaconda](https://www.anaconda.com/distribution/)
+  [git](https://git-scm.com/downloads)
+  >3. 在vscode中**安装setting sync**插件
+  >4. **导入配置**:
+  >
+  >    菜单File -> Preferences -> setting -> 搜索 ‘gist’ -> 在gist id框中填入 0fbb2bc3c36d1339bd1120ffd02a8624
 
 # 3. 基本使用
 
