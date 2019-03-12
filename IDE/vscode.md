@@ -222,7 +222,7 @@ python工程开发，如果文件较大，逻辑较复杂，vscode的outline可�
   >有兴趣可以尝试我个人共享的**python**及**markdown**环境配置：
   >1. **安装[vscode](https://code.visualstudio.com/)**
   >2. **安装[anaconda](https://www.anaconda.com/distribution/)、[git](https://git-scm.com/downloads)**</br>
-   >  [Anaconda的使用参考](https://github.com/sprawlvine/learn/blob/master/anaconda%E5%85%A5%E9%97%A8%E7%AF%87.md)
+   >  [Anaconda的使用参考](https://github.com/sprawlvine/learn/blob/master/python/anaconda%E5%85%A5%E9%97%A8%E7%AF%87.md)
   >3. 在vscode中**安装setting sync**插件
   >4. **导入配置**:
   >
