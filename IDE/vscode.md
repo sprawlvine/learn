@@ -7,7 +7,8 @@
   - [2.2. Markdown](#22-markdown)
   - [2.3. 思维导图](#23-%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE)
   - [2.4. UML/有向图](#24-uml%E6%9C%89%E5%90%91%E5%9B%BE)
-  - [2.5. 配置](#25-%E9%85%8D%E7%BD%AE)
+  - [2.5 ssh](#25-ssh)
+  - [2.6. 多机同步配置](#26-%E5%A4%9A%E6%9C%BA%E5%90%8C%E6%AD%A5%E9%85%8D%E7%BD%AE)
 - [3. 基本使用](#3-%E5%9F%BA%E6%9C%AC%E4%BD%BF%E7%94%A8)
 - [4. debug](#4-debug)
   - [4.1. python](#41-python)
@@ -214,7 +215,41 @@ python工程开发，如果文件较大，逻辑较复杂，vscode的outline可�
   >
   >**使用方式：F1选择命令或者右上角图片浏览，F1命令转换为图片**
 
-## 2.5. 配置
+## 2.5 ssh
+
+- **SSH FS**
+
+>把ssh的远端目录直接作为workspace目录
+  >
+  >**使用方式：F1选择命令**
+
+- **详细安装配置步骤：**
+  - 菜单**File** -> **Preferences** -> **settings**，把类似如下的配置
+
+  ```json
+  "sshfs.configs": [
+      {
+          "name": "g1",
+          "root": "/home/test/p1",
+          "host": "172.1.1.1",
+          "port": 22,
+          "username": "test",
+          "password": "test"
+      },
+      {
+          "name": "g2",
+          "root": "/home/test/p2",
+          "host": "172.1.1.2",
+          "port": 22,
+          "username": "test",
+          "password": "test"
+      }
+  ]
+  ```
+
+  - F1 ssh fs：connect或者在左下角的SSH FILE SYSTEMS选择连接
+
+## 2.6. 多机同步配置
 
 - **Settings Sync**
   >github上利用gist存储vscode的配置，存上去，随时取下来，不用反复配置了
