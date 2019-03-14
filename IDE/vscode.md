@@ -261,7 +261,7 @@ python工程开发，如果文件较大，逻辑较复杂，vscode的outline可�
   >3. 在vscode中**安装setting sync**插件
   >4. **导入配置**:
   >
-  >    菜单**File** -> **Preferences** -> **settings** -> 搜索 ‘_gist_’ -> 在gist id框中填入 **0fbb2bc3c36d1339bd1120ffd02a8624**
+  >    菜单**File** -> **Preferences** -> **settings** -> 搜索 ‘_gist_’ -> 在gist id框中填入 **940bb47358c9154dba9db4402e25d979**
 
 # 3. 基本使用
 
