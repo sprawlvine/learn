@@ -1,3 +1,4 @@
+[ttt](#IPython使用)
 # 1. 安装  
 ## 1.1 python安装  
 1. **windows:**  
