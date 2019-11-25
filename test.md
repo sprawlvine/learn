@@ -96,8 +96,8 @@ stop a periodic reporting       |cancel-request                 |[StopPeriodicRe
 			<br>
 				<br>
 																																			
-## . GetAgentProperties
-## . GetPortMap
-## . GetConfiguration
-## . StopPeriodicReport
+## .GetAgentProperties
+## .GetPortMap
+## .GetConfiguration
+## .StopPeriodicReport
 # 2. 
